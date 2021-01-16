@@ -14,7 +14,7 @@
 
 @mixin sidebar-color($color){
   &:after{
-    background: $color;
+    background: #262a28;
   }
 }
 
