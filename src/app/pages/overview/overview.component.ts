@@ -3,12 +3,12 @@ import Chart from 'chart.js';
 
 
 @Component({
-    selector: 'dashboard-cmp',
+    selector: 'overview-cmp',
     moduleId: module.id,
-    templateUrl: 'dashboard.component.html'
+    templateUrl: 'overview.component.html'
 })
 
-export class DashboardComponent implements OnInit{
+export class OverviewComponent implements OnInit{
 
   public canvas : any;
   public ctx;
@@ -28,11 +28,11 @@ export class DashboardComponent implements OnInit{
         data: {
           labels: ["Dec 14 - Dec 20", "Dec 21 - Dec 27", "Dec 28 - Jan 3", "Jan 4 - Jan 10", "Jan 11 - Jan 17"],
           datasets: [{
-              borderColor: "#6bd098",
-              backgroundColor: "#6bd098",
+              borderColor: "#386B68",
+              backgroundColor: "#B1D2B1",
               pointRadius: 0,
               pointHoverRadius: 0,
-              borderWidth: 3,
+              borderWidth: 2,
               data: [112978, 131247, 270047, 421234, 265249]
             }
           
@@ -44,7 +44,11 @@ export class DashboardComponent implements OnInit{
           },
 
           tooltips: {
-            enabled: false
+            enabled: true,
+            callback: function(value, index, values) {
+              return value.toLocaleString();
+            }
+            
           },
 
           scales: {
@@ -54,7 +58,9 @@ export class DashboardComponent implements OnInit{
                 fontColor: "#9f9f9f",
                 beginAtZero: true,
                 maxTicksLimit: 5,
-                //padding: 20
+                callback: function(value, index, values) {
+                  return value.toLocaleString();
+                }
               },
               gridLines: {
                 drawBorder: true,
@@ -65,7 +71,7 @@ export class DashboardComponent implements OnInit{
             }],
 
             xAxes: [{
-              barPercentage: 1.6,
+              barPercentage: 1,
               gridLines: {
                 drawBorder: true,
                 color: 'rgba(255,255,255,0.1)',
