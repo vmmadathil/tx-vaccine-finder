@@ -178,7 +178,7 @@ pre.prettyprint{
     min-width: 170px;
 }
 #buttons-row .btn{
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 @media (max-width: 991px){
     .fixed-section.affix {
