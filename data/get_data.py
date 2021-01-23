@@ -11,7 +11,7 @@ r = requests.get(url = URL)
 
 data = r.json()
 
-filename = 'data' + d + '.json'
+filename = 'data_' + d + '.json'
 
 with open(filename, 'w') as f:
     json.dump(data, f)

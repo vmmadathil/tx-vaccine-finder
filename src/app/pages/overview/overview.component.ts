@@ -33,7 +33,7 @@ export class OverviewComponent implements OnInit{
               pointRadius: 0,
               pointHoverRadius: 0,
               borderWidth: 2,
-              data: [112978, 131247, 270047, 421234, 370547, 179117]
+              data: [112978, 131247, 270047, 421234, 370547, 253371]
             }
           
           ]
