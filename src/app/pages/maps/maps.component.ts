@@ -1,6 +1,9 @@
 import { environment } from '../../../environments/environment';
 import { Component,OnInit } from '@angular/core';
-const mapboxgl = require('mapbox-gl');
+//const mapboxgl = require('mapbox-gl');
+import { Map } from "mapbox-gl/dist/mapbox-gl"
+import * as mapboxgl from "mapbox-gl/dist/mapbox-gl"
+
 
 declare var google: any;
 
@@ -13,7 +16,7 @@ declare var google: any;
 export class MapsComponent implements OnInit {
 
     map = mapboxgl.Map;
-    style = 'mapbox://styles/mapbox/streets-v11';
+    style = 'mapbox://styles/mapbox/dark-v10';
     lat = 32.77;
     lng = -96.80;
 
