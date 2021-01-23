@@ -1,4 +1,6 @@
+import { environment } from '../../../environments/environment';
 import { Component,OnInit } from '@angular/core';
+const mapboxgl = require('mapbox-gl');
 
 declare var google: any;
 
@@ -9,23 +11,24 @@ declare var google: any;
 })
 
 export class MapsComponent implements OnInit {
+
+    map = mapboxgl.Map;
+    style = 'mapbox://styles/mapbox/streets-v11';
+    lat = 32.77;
+    lng = -96.80;
+
     ngOnInit() {
-        var myLatlng = new google.maps.LatLng(40.748817, -73.985428);
-        var mapOptions = {
-          zoom: 13,
-          center: myLatlng,
-          scrollwheel: false, //we disable de scroll over the map, it is a really annoing when you scroll through page
-          styles: [{"featureType":"water","stylers":[{"saturation":43},{"lightness":-11},{"hue":"#0088ff"}]},{"featureType":"road","elementType":"geometry.fill","stylers":[{"hue":"#ff0000"},{"saturation":-100},{"lightness":99}]},{"featureType":"road","elementType":"geometry.stroke","stylers":[{"color":"#808080"},{"lightness":54}]},{"featureType":"landscape.man_made","elementType":"geometry.fill","stylers":[{"color":"#ece2d9"}]},{"featureType":"poi.park","elementType":"geometry.fill","stylers":[{"color":"#ccdca1"}]},{"featureType":"road","elementType":"labels.text.fill","stylers":[{"color":"#767676"}]},{"featureType":"road","elementType":"labels.text.stroke","stylers":[{"color":"#ffffff"}]},{"featureType":"poi","stylers":[{"visibility":"off"}]},{"featureType":"landscape.natural","elementType":"geometry.fill","stylers":[{"visibility":"on"},{"color":"#b8cb93"}]},{"featureType":"poi.park","stylers":[{"visibility":"on"}]},{"featureType":"poi.sports_complex","stylers":[{"visibility":"on"}]},{"featureType":"poi.medical","stylers":[{"visibility":"on"}]},{"featureType":"poi.business","stylers":[{"visibility":"simplified"}]}]
-
-        }
-        var map = new google.maps.Map(document.getElementById("map"), mapOptions);
-
-        var marker = new google.maps.Marker({
-            position: myLatlng,
-            title:"Hello World!"
+        //mapboxgl.accessToken = environment.mapbox.accessToken;
+        mapboxgl.accessToken = 'pk.eyJ1Ijoidm1hZGF0aGlsIiwiYSI6ImNra2FiNmw1aDAxNmIzMG5ha3NhZnE3N2YifQ.bWx-K-QAZYuJwWVjji6JmA'
+        this.map = new mapboxgl.Map({
+        container: 'map',
+        style: this.style,
+        zoom: 9,
+        center: [this.lng, this.lat]
         });
 
-        // To add the marker to the map, call setMap();
-        marker.setMap(map);
-    }
+    // Add map controls
+    this.map.addControl(new mapboxgl.NavigationControl());
+  }
+        
 }
