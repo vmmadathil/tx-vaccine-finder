@@ -26,14 +26,14 @@ export class OverviewComponent implements OnInit{
         type: 'bar',
 
         data: {
-          labels: ["Dec 14 - Dec 20", "Dec 21 - Dec 27", "Dec 28 - Jan 3", "Jan 4 - Jan 10", "Jan 11 - Jan 17", "Jan 18 - Today"],
+          labels: ["Dec 14 - Dec 20", "Dec 21 - Dec 27", "Dec 28 - Jan 3", "Jan 4 - Jan 10", "Jan 11 - Jan 17", "Jan 18 - Jan 24", "Jan 25 - Today"],
           datasets: [{
               borderColor: "#386B68",
               backgroundColor: "#B1D2B1",
               pointRadius: 0,
               pointHoverRadius: 0,
               borderWidth: 2,
-              data: [112978, 131247, 270047, 421234, 370547, 253371]
+              data: [113408, 132788, 279533, 471940, 453402, 398120, 74312]
             }
           
           ]
@@ -96,14 +96,14 @@ export class OverviewComponent implements OnInit{
         type: 'bar',
 
         data: {
-          labels: ["Dec 14 - Dec 20", "Dec 21 - Dec 27", "Dec 28 - Jan 3", "Jan 4 - Jan 10", "Jan 11 - Jan 17", "Jan 18 - Today"],
+          labels: ["Dec 14 - Dec 20", "Dec 21 - Dec 27", "Dec 28 - Jan 3", "Jan 4 - Jan 10", "Jan 11 - Jan 17", "Jan 18 - Jan 24", "Jan 25 - Today"],
           datasets: [{
               borderColor: "#386B68",
               backgroundColor: "#BEB7DF",
               pointRadius: 0,
               pointHoverRadius: 0,
               borderWidth: 2,
-              data: [224250, 609200, 384375, 550475, 477925, 966800]
+              data: [224250, 609200, 384375, 550475, 477925, 966800, 685675]
             }
           
           ]
