@@ -4,7 +4,8 @@ from geopy.geocoders import MapBox
 geolocator = MapBox(api_key="pk.eyJ1Ijoidm1hZGF0aGlsIiwiYSI6ImNra2FiNmw1aDAxNmIzMG5ha3NhZnE3N2YifQ.bWx-K-QAZYuJwWVjji6JmA")
 
 #path to json file
-path = 'data_01-27-21' 
+rawfile = 'data_02-03-21' 
+path = 'raw_data/' + rawfile
 
 featureCollection = {"type" : "FeatureCollection", 
                      "features" : []} 
@@ -45,7 +46,7 @@ for i in data['features']:
     #appending to feature collection dictionary
     featureCollection['features'].append(feature)
 
-filename = path + '_processed.json'
+filename = 'processed_data/' + rawfile + '_processed.json'
 
 #writing file
 with open(filename, 'w') as f:
