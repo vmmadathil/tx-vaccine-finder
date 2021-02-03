@@ -4,8 +4,6 @@ import { Component, OnInit } from '@angular/core';
 import { Map } from "mapbox-gl/dist/mapbox-gl"
 import * as mapboxgl from "mapbox-gl/dist/mapbox-gl"
 
-import * as myData from "../../data_01-27-21_processed.json"
-
 
 @Component({
     moduleId: module.id,
@@ -45,9 +43,7 @@ export class MapsComponent implements OnInit {
             data: 'https://vmmadathil.github.io/data_02-03-21_processed.json'
         });
 
-        const data = myData;
-
-        console.log(data)
+        
 
         this.map.addLayer({
             id: 'customMarketid',
