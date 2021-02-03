@@ -42,7 +42,7 @@ export class MapsComponent implements OnInit {
 
         this.map.addSource('customMarker', {
             type: 'geojson',
-            data: 'https://vmmadathil.github.io/data_01-27-21_processed.json'
+            data: 'https://vmmadathil.github.io/data_02-03-21_processed.json'
         });
 
         const data = myData;
