@@ -4,7 +4,7 @@ from geopy.geocoders import MapBox
 geolocator = MapBox(api_key="pk.eyJ1Ijoidm1hZGF0aGlsIiwiYSI6ImNra2FiNmw1aDAxNmIzMG5ha3NhZnE3N2YifQ.bWx-K-QAZYuJwWVjji6JmA")
 
 #path to json file
-rawfile = 'data_02-03-21' 
+rawfile = 'data_02-04-21' 
 path = 'raw_data/' + rawfile
 
 featureCollection = {"type" : "FeatureCollection", 
@@ -42,6 +42,12 @@ for i in data['features']:
         feature['geometry']['coordinates'].append(i['attributes']['LONGITUDE'])
         feature['geometry']['coordinates'].append(i['attributes']['LATITUDE'])
     feature['properties'] = i['attributes']
+    feature['properties']['marker-symbol'] = 'circle-15'
+
+    if(i['attributes']['VACCINES_AVAILABLE'] == 0):
+        feature['properties']['marker-color'] = '#FF0000' 
+    else:
+        feature['properties']['marker-color'] = '#228B22'
 
     #appending to feature collection dictionary
     featureCollection['features'].append(feature)
