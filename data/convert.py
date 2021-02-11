@@ -4,7 +4,7 @@ from geopy.geocoders import MapBox
 geolocator = MapBox(api_key="pk.eyJ1Ijoidm1hZGF0aGlsIiwiYSI6ImNra2FiNmw1aDAxNmIzMG5ha3NhZnE3N2YifQ.bWx-K-QAZYuJwWVjji6JmA")
 
 #path to json file
-rawfile = 'data_02-04-21' 
+rawfile = 'data_02-10-21' 
 path = 'raw_data/' + rawfile
 
 featureCollection = {"type" : "FeatureCollection", 
