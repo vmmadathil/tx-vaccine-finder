@@ -38,11 +38,10 @@ export class MapsComponent implements OnInit {
 
     onLoad() {
 
-        
-        this.map.addImage
+
         this.map.addSource('customMarker', {
             type: 'geojson',
-            data: 'https://raw.githubusercontent.com/vmmadathil/tx-vaccine-finder/master/data/processed_data/data_02-10-21_processed.json'
+            data: 'https://raw.githubusercontent.com/vmmadathil/tx-vaccine-finder/master/data/processed_data/data_02-13-21_processed.json'
         });
 
         console.log('map loaded')
@@ -52,13 +51,13 @@ export class MapsComponent implements OnInit {
             source: 'customMarker',
             type: 'symbol',
             layout: {
-                 'text-field': '{NAME}',
-                 'text-size': 9,
-                 'text-transform': 'uppercase',
-                'icon-image': 'circle',
-                'text-offset': [0, 1.5]
+                // 'text-field': '{NAME}',
+                // 'text-size': 9,
+                // 'text-transform': 'uppercase',
+                'icon-image': 'circle-15',
+                // 'text-offset': [0, 1.5]
             },
-             paint: {
+            paint: {
                 'text-color': '#fff'
             }
         });
