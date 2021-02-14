@@ -7,9 +7,14 @@ geolocator = MapBox(api_key="pk.eyJ1Ijoidm1hZGF0aGlsIiwiYSI6ImNra2FiNmw1aDAxNmIz
 rawfile = 'data_02-13-21' 
 path = 'raw_data/' + rawfile
 
-featureCollection = {"type" : "FeatureCollection", 
+featureCollectionAvali = {"type" : "FeatureCollection", 
                      "features" : []} 
 
+featureCollectionExhaust = {"type" : "FeatureCollection", 
+                     "features" : []} 
+
+featureCollectionHubs = {"type" : "FeatureCollection", 
+                     "features" : []} 
 
 with open(path + '.json') as json_file: 
     data = json.load(json_file) 
@@ -44,19 +49,31 @@ for i in data['features']:
     feature['properties'] = i['attributes']
     feature['properties']['marker-symbol'] = 'circle-15'
 
-    if(i['attributes']['VACCINES_AVAILABLE'] == 0):
+    #allocating to the different dictionaries
+    if(i['attributes']['TYPE'] == 'Vaccine Hub'):
+        featureCollectionHubs['features'].append(feature)
+    elif(i['attributes']['VACCINES_AVAILABLE'] == 0):
         feature['properties']['marker-color'] = '#FF0000' 
+        featureCollectionExhaust['features'].append(feature)
     else:
         feature['properties']['marker-color'] = '#228B22'
+        featureCollectionAvali['features'].append(feature)
 
     #appending to feature collection dictionary
-    featureCollection['features'].append(feature)
-
-filename = 'processed_data/' + rawfile + '_processed.json'
-
-#writing file
-with open(filename, 'w') as f:
-    json.dump(featureCollection, f)
-
-
     
+
+filenameAvali = 'processed_data/' + rawfile + '_avaliable' + '_processed.json'
+filenameExhaust = 'processed_data/' + rawfile + '_none' + '_processed.json'
+filenameHubs = 'processed_data/' + rawfile + '_hubs' + '_processed.json'
+
+#writing avaliable file
+with open(filenameAvali, 'w') as f:
+    json.dump(featureCollectionAvali, f)
+
+#writing not avaliable file
+with open(filenameExhaust, 'w') as f:
+    json.dump(featureCollectionExhaust, f)
+
+#writing avaliable file
+with open(filenameHubs, 'w') as f:
+    json.dump(featureCollectionHubs, f)

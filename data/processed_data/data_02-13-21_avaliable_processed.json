@@ -1,0 +1,4527 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.27053,
+                    31.961387
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3,
+                "NAME": "UT HEALTH - JACKSONVILLE",
+                "TYPE": "Hospital",
+                "TSA": "G",
+                "STREET": "501 S Ragsdale St",
+                "CITY": " Jacksonville",
+                "COUNTY": "Cherokee",
+                "ADDRESS": "501 S Ragsdale St, Jacksonville, TX, 75766",
+                "ZIP": "75766",
+                "LATITUDE": 31.961387,
+                "LONGITUDE": -95.27053,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 50,
+                "VACCINES_AVAILABLE": 50,
+                "Total_Shipped": 300,
+                "PublicPhone": "(903) 541-5000",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "11:08:57        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.796404,
+                    32.161635
+                ]
+            },
+            "properties": {
+                "OBJECTID": 289,
+                "NAME": "UT HEALTH - HENDERSON",
+                "TYPE": "Hospital",
+                "TSA": "G",
+                "STREET": "300 Wilson Street",
+                "CITY": " Henderson",
+                "COUNTY": "Rusk",
+                "ADDRESS": "300 Wilson Street, Henderson, TX, 75652",
+                "ZIP": "75652",
+                "LATITUDE": 32.161635,
+                "LONGITUDE": -94.796404,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 400,
+                "PublicPhone": "(903) 657-7541",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:59:30        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.8414,
+                    32.167019
+                ]
+            },
+            "properties": {
+                "OBJECTID": 306,
+                "NAME": "UT HEALTH - ATHENS",
+                "TYPE": "Hospital",
+                "TSA": "G",
+                "STREET": "2000 S Palestine St",
+                "CITY": " Athens",
+                "COUNTY": "Henderson",
+                "ADDRESS": "2000 S Palestine St, Athens, TX, 75751",
+                "ZIP": "75751",
+                "LATITUDE": 32.167019,
+                "LONGITUDE": -95.8414,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 50,
+                "VACCINES_AVAILABLE": 50,
+                "Total_Shipped": 300,
+                "PublicPhone": "(903) 676-1000",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/10/2021      ",
+                "LAST_UPDATE_TIME_VAC": "10:13:13        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.7021674987405,
+                    26.1825820040808
+                ]
+            },
+            "properties": {
+                "OBJECTID": 314,
+                "NAME": "Salinas Pharmacy",
+                "TYPE": "Pharmacy",
+                "TSA": null,
+                "STREET": "1022 S F St",
+                "CITY": "Harlingen",
+                "COUNTY": "Cameron",
+                "ADDRESS": "1022 S F St",
+                "ZIP": "78550",
+                "LATITUDE": 26.1825820040808,
+                "LONGITUDE": -97.7021674987405,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 200,
+                "PublicPhone": "(956) 425-1156",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:35:13        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.744933443025,
+                    32.3716889100017
+                ]
+            },
+            "properties": {
+                "OBJECTID": 465,
+                "NAME": "Encompass Health Rehabilitation Hospital - Abilene",
+                "TYPE": "Hospital",
+                "TSA": null,
+                "STREET": "6401 Directors Parkway",
+                "CITY": "Abilene",
+                "COUNTY": "Taylor",
+                "ADDRESS": "6401 Directors Parkway",
+                "ZIP": "79606",
+                "LATITUDE": 32.3716889100017,
+                "LONGITUDE": -99.744933443025,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 400,
+                "PublicPhone": "Non-Public",
+                "WEBSITE": "http://encompasshealth.com",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/09/2021      ",
+                "LAST_UPDATE_TIME_VAC": "09:33:47        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3138016542948,
+                    32.8985461745874
+                ]
+            },
+            "properties": {
+                "OBJECTID": 466,
+                "NAME": "MEDICAL CITY - ALLIANCE",
+                "TYPE": "Hospital",
+                "TSA": "E",
+                "STREET": "3101 N Tarrant Pkway",
+                "CITY": "Fort Worth",
+                "COUNTY": "Tarrant",
+                "ADDRESS": "3101 N Tarrant Pkway",
+                "ZIP": "76177",
+                "LATITUDE": 32.8985461745874,
+                "LONGITUDE": -97.3138016542948,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 200,
+                "VACCINES_AVAILABLE": 200,
+                "Total_Shipped": 1600,
+                "PublicPhone": "(817) 639-1001",
+                "WEBSITE": "https://medicalcityhealthcare.com/specialties/emergency-care?location=medical-city-alliance?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "14:12:16        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.702219701036,
+                    34.1911917715346
+                ]
+            },
+            "properties": {
+                "OBJECTID": 471,
+                "NAME": "Lhd Plainview-Hale Co Health Dist (Re)",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "E 10th St",
+                "CITY": "Plainview",
+                "COUNTY": "Hale",
+                "ADDRESS": "111 E 10th St",
+                "ZIP": "79072",
+                "LATITUDE": 34.1911917715346,
+                "LONGITUDE": -101.702219701036,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 10,
+                "VACCINES_AVAILABLE": 10,
+                "Total_Shipped": 400,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "13:39:41        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.8430239317566,
+                    32.8277624443214
+                ]
+            },
+            "properties": {
+                "OBJECTID": 472,
+                "NAME": "Bluebonnet Hospice of East Texas, Inc",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "Maple Ave",
+                "CITY": "Dallas",
+                "COUNTY": "Dallas",
+                "ADDRESS": "6400 Maple Ave",
+                "ZIP": "75235",
+                "LATITUDE": 32.8277624443214,
+                "LONGITUDE": -96.8430239317566,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 160,
+                "VACCINES_AVAILABLE": 160,
+                "Total_Shipped": 200,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "13:24:21        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.921855687127,
+                    35.1997580869122
+                ]
+            },
+            "properties": {
+                "OBJECTID": 480,
+                "NAME": "Northwest Texas Hospital Pharmacy",
+                "TYPE": "Hospital",
+                "TSA": null,
+                "STREET": "1501 S Coulter St",
+                "CITY": "Amarillo",
+                "COUNTY": "Potter",
+                "ADDRESS": "1501 S Coulter St",
+                "ZIP": "79106",
+                "LATITUDE": 35.1997580869122,
+                "LONGITUDE": -101.921855687127,
+                "PFIZER_AVAILABLE": 2034,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 2034,
+                "Total_Shipped": 5100,
+                "PublicPhone": "(806) 354-1000",
+                "WEBSITE": "https://www.nwths.com/?utm_source=google-business&utm_medium=organic&utm_campaign=homepage",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/10/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:49:48        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.5856665294205,
+                    33.0897193737944
+                ]
+            },
+            "properties": {
+                "OBJECTID": 486,
+                "NAME": "Young County Family Clinic",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "820 Montgomery Rd",
+                "CITY": "Graham",
+                "COUNTY": "Young",
+                "ADDRESS": "820 Montgomery Rd Ste 202 Graham 76450",
+                "ZIP": "76450",
+                "LATITUDE": 33.0897193737944,
+                "LONGITUDE": -98.5856665294205,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 120,
+                "VACCINES_AVAILABLE": 120,
+                "Total_Shipped": 200,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "10:16:30        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.7842837427096,
+                    26.4670317797091
+                ]
+            },
+            "properties": {
+                "OBJECTID": 502,
+                "NAME": "Su Clinica - Raymondville",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "131 Fm 3168",
+                "CITY": "Raymondville",
+                "COUNTY": "Willacy",
+                "ADDRESS": "131 Fm 3168",
+                "ZIP": "78580",
+                "LATITUDE": 26.4670317797091,
+                "LONGITUDE": -97.7842837427096,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 300,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "10:12:48        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.177716,
+                    28.669024
+                ]
+            },
+            "properties": {
+                "OBJECTID": 518,
+                "NAME": "S Tx Rhs Inc",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "606 W Leona St",
+                "CITY": "Dilley",
+                "COUNTY": "FRIO",
+                "ADDRESS": "606 W Leona St",
+                "ZIP": "78017",
+                "LATITUDE": 28.669024,
+                "LONGITUDE": -99.177716,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 130,
+                "VACCINES_AVAILABLE": 130,
+                "Total_Shipped": 200,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/10/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:56:18        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.135634,
+                    30.068767
+                ]
+            },
+            "properties": {
+                "OBJECTID": 530,
+                "NAME": "BEAUMONT ELITE EMERGENCY CTR LLC",
+                "TYPE": "Medical Practice",
+                "TSA": "R",
+                "STREET": "4004 College Street",
+                "CITY": " Beaumont",
+                "COUNTY": "Jefferson",
+                "ADDRESS": "4004 College Street, Beaumont, TX, 77707",
+                "ZIP": "77707",
+                "LATITUDE": 30.068767,
+                "LONGITUDE": -94.135634,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 33,
+                "VACCINES_AVAILABLE": 33,
+                "Total_Shipped": 100,
+                "PublicPhone": "(409) 840-4004",
+                "WEBSITE": "https://beaumontemergencycenter.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:43:22        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.5360262022034,
+                    29.6175132443438
+                ]
+            },
+            "properties": {
+                "OBJECTID": 538,
+                "NAME": "Fort Bend County Clinical Health Services - Missouri City",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "307 Texas Parkway",
+                "CITY": "Missouri City",
+                "COUNTY": "Fort Bend",
+                "ADDRESS": "307 Texas Parkway",
+                "ZIP": "77489",
+                "LATITUDE": 29.6175132443438,
+                "LONGITUDE": -95.5360262022034,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 100,
+                "PublicPhone": "+12813424530",
+                "WEBSITE": "https://www.myaccesshealth.org/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "09:17:06        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.5702955,
+                    31.4554935
+                ]
+            },
+            "properties": {
+                "OBJECTID": 544,
+                "NAME": "McMahan Pharmacy Services, Inc",
+                "TYPE": "Pharmacy",
+                "TSA": null,
+                "STREET": "1503 W Front St",
+                "CITY": "Goldthwaite",
+                "COUNTY": "Mills",
+                "ADDRESS": "1503 West Front Street",
+                "ZIP": "76844",
+                "LATITUDE": 31.4554935,
+                "LONGITUDE": -98.5702955,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 50,
+                "VACCINES_AVAILABLE": 50,
+                "Total_Shipped": 100,
+                "PublicPhone": "(325) 648-2484",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "16:37:15        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.758085,
+                    33.7193
+                ]
+            },
+            "properties": {
+                "OBJECTID": 550,
+                "NAME": "COCHRAN MEMORIAL HOSPITAL",
+                "TYPE": "Hospital",
+                "TSA": "B",
+                "STREET": "201 East Grant",
+                "CITY": " Morton",
+                "COUNTY": "Cochran",
+                "ADDRESS": "201 East Grant, Morton, TX, 79346",
+                "ZIP": "79346",
+                "LATITUDE": 33.7193,
+                "LONGITUDE": -102.758085,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 20,
+                "VACCINES_AVAILABLE": 20,
+                "Total_Shipped": 400,
+                "PublicPhone": "(806) 266-5565",
+                "WEBSITE": "https://www.facebook.com/cochranmemorialhospital/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:04:30        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.7307006507613,
+                    32.4676702891536
+                ]
+            },
+            "properties": {
+                "OBJECTID": 587,
+                "NAME": "Wellness Pointe/South 040587",
+                "TYPE": "Community Clinic",
+                "TSA": "G",
+                "STREET": "2131 South Mobberly",
+                "CITY": "Longview",
+                "COUNTY": "Gregg",
+                "ADDRESS": "2131 South Mobberly",
+                "ZIP": "75602",
+                "LATITUDE": 32.4676702891536,
+                "LONGITUDE": -94.7307006507613,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 40,
+                "VACCINES_AVAILABLE": 40,
+                "Total_Shipped": 100,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "18:19:44        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.0011099884292,
+                    30.921822502707
+                ]
+            },
+            "properties": {
+                "OBJECTID": 597,
+                "NAME": "JASPER NEWTON CO CLINIC",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "139 W. Lamar",
+                "CITY": "Jasper",
+                "COUNTY": "Jasper",
+                "ADDRESS": "139 W. Lamar",
+                "ZIP": "75951",
+                "LATITUDE": 30.921822502707,
+                "LONGITUDE": -94.0011099884292,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 397,
+                "VACCINES_AVAILABLE": 397,
+                "Total_Shipped": 5000,
+                "PublicPhone": "(409) 384-6829",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "16:12:32        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.39324,
+                    32.7947
+                ]
+            },
+            "properties": {
+                "OBJECTID": 599,
+                "NAME": "Northside Community Health Center",
+                "TYPE": "Community Clinic",
+                "TSA": "E",
+                "STREET": "2332 Beverly Hills Dr.",
+                "CITY": "Fort Worth",
+                "COUNTY": "Tarrant",
+                "ADDRESS": "2332 Beverly Hills Dr.",
+                "ZIP": "76114",
+                "LATITUDE": 32.7947,
+                "LONGITUDE": -97.39324,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 15,
+                "VACCINES_AVAILABLE": 15,
+                "Total_Shipped": 100,
+                "PublicPhone": "(817) 625-4254",
+                "WEBSITE": "https://ntachc.org/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "20:14:09        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.8335574635417,
+                    33.045061071266
+                ]
+            },
+            "properties": {
+                "OBJECTID": 606,
+                "NAME": "Internal Medicine Associates Of Plano",
+                "TYPE": "Medical Practice",
+                "TSA": null,
+                "STREET": "6124 W Parker Rd Ste 234",
+                "CITY": "Plano",
+                "COUNTY": "Collin",
+                "ADDRESS": "6124 W Parker Rd Ste 234",
+                "ZIP": "75093",
+                "LATITUDE": 33.045061071266,
+                "LONGITUDE": -96.8335574635417,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 598,
+                "VACCINES_AVAILABLE": 598,
+                "Total_Shipped": 2400,
+                "PublicPhone": "(972) 468-9999",
+                "WEBSITE": "http://www.planointernist.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "10:33:59        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.118981,
+                    30.068467
+                ]
+            },
+            "properties": {
+                "OBJECTID": 609,
+                "NAME": "BAPTIST HOSPITAL OF SE TEXAS - BEAUMONT",
+                "TYPE": "Pharmacy",
+                "TSA": "R",
+                "STREET": "3080 College St",
+                "CITY": " Beaumont",
+                "COUNTY": "Jefferson",
+                "ADDRESS": "3080 College St, Beaumont, TX, 77701",
+                "ZIP": "77701",
+                "LATITUDE": 30.068467,
+                "LONGITUDE": -94.118981,
+                "PFIZER_AVAILABLE": 1180,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 1280,
+                "Total_Shipped": 4100,
+                "PublicPhone": "(409) 212-5000",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "14:26:00        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.1341290171204,
+                    29.3371505292639
+                ]
+            },
+            "properties": {
+                "OBJECTID": 629,
+                "NAME": "South Tx Rural Health Services of Hondo",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": null,
+                "CITY": "Hondo",
+                "COUNTY": "Medina",
+                "ADDRESS": "2912 Avenue E",
+                "ZIP": "78861",
+                "LATITUDE": 29.3371505292639,
+                "LONGITUDE": -99.1341290171204,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 130,
+                "VACCINES_AVAILABLE": 130,
+                "Total_Shipped": 200,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:14:40        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.916098139948,
+                    29.1472713597676
+                ]
+            },
+            "properties": {
+                "OBJECTID": 631,
+                "NAME": "South Tx Rural Health Services Devine",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "1010 W HONDO AVE",
+                "CITY": "DEVINE",
+                "COUNTY": "Medina",
+                "ADDRESS": "1010 W HONDO AVE",
+                "ZIP": "78016",
+                "LATITUDE": 29.1472713597676,
+                "LONGITUDE": -98.916098139948,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 300,
+                "PublicPhone": "830-879-2502",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "09:59:07        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.8653263999465,
+                    28.5152413371109
+                ]
+            },
+            "properties": {
+                "OBJECTID": 632,
+                "NAME": "South Tx Rural Health Services - Carrizo Springs",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "902 S 5TH ST",
+                "CITY": "CARRIZO SPRINGS",
+                "COUNTY": "Dimmit",
+                "ADDRESS": "902 S 5TH ST",
+                "ZIP": "78834",
+                "LATITUDE": 28.5152413371109,
+                "LONGITUDE": -99.8653263999465,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 180,
+                "VACCINES_AVAILABLE": 180,
+                "Total_Shipped": 300,
+                "PublicPhone": "(830)876-5263",
+                "WEBSITE": "http://southtexasruralhealth.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:02:30        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.2362789179092,
+                    28.4364095683834
+                ]
+            },
+            "properties": {
+                "OBJECTID": 633,
+                "NAME": "South Tx Rural Health Serv Cotulla",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "105 S Stewart",
+                "CITY": "Cotulla",
+                "COUNTY": "La Salle",
+                "ADDRESS": "105 S Stewart",
+                "ZIP": "78014",
+                "LATITUDE": 28.4364095683834,
+                "LONGITUDE": -99.2362789179092,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 60,
+                "VACCINES_AVAILABLE": 60,
+                "Total_Shipped": 300,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:44:13        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.394403,
+                    32.394876
+                ]
+            },
+            "properties": {
+                "OBJECTID": 643,
+                "NAME": "ResourceCare Baird",
+                "TYPE": "Medical Practice",
+                "TSA": null,
+                "STREET": "West 4th St",
+                "CITY": "Baird",
+                "COUNTY": "Callahan",
+                "ADDRESS": "128 West 4th Street",
+                "ZIP": "79504",
+                "LATITUDE": 32.394876,
+                "LONGITUDE": -99.394403,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 40,
+                "VACCINES_AVAILABLE": 40,
+                "Total_Shipped": 200,
+                "PublicPhone": "325-854-1365",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "10:34:26        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6540700606682,
+                    29.8737366339573
+                ]
+            },
+            "properties": {
+                "OBJECTID": 645,
+                "NAME": "Dshs Lockhart",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "Blackjack St",
+                "CITY": "Lockhart",
+                "COUNTY": "Caldwell",
+                "ADDRESS": "1403f Blackjack St",
+                "ZIP": "78644",
+                "LATITUDE": 29.8737366339573,
+                "LONGITUDE": -97.6540700606682,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 300,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "12:58:31        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.413711968071,
+                    34.8389580169874
+                ]
+            },
+            "properties": {
+                "OBJECTID": 659,
+                "NAME": "Hereford Health Clinic",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "540 W 15th",
+                "CITY": "Hereford",
+                "COUNTY": "Deaf Smith",
+                "ADDRESS": "540 W 15th",
+                "ZIP": "79045",
+                "LATITUDE": 34.8389580169874,
+                "LONGITUDE": -102.413711968071,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 160,
+                "VACCINES_AVAILABLE": 160,
+                "Total_Shipped": 1300,
+                "PublicPhone": "(806) 364-7512",
+                "WEBSITE": "https://dschd.org/clinic/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:29:32        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.971831,
+                    35.86417
+                ]
+            },
+            "properties": {
+                "OBJECTID": 665,
+                "NAME": "MOORE COUNTY HOSPITAL DISTRICT",
+                "TYPE": "Hospital",
+                "TSA": "A",
+                "STREET": "224 E 2nd St",
+                "CITY": "Dumas",
+                "COUNTY": "Moore",
+                "ADDRESS": "224 E 2nd St, Dumas, TX, 79029",
+                "ZIP": "79029",
+                "LATITUDE": 35.86417,
+                "LONGITUDE": -101.971831,
+                "PFIZER_AVAILABLE": 330,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 330,
+                "Total_Shipped": 600,
+                "PublicPhone": "(806) 935-7171",
+                "WEBSITE": "http://www.mchd.net/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "11:28:21        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.6530319539146,
+                    31.6141083192146
+                ]
+            },
+            "properties": {
+                "OBJECTID": 671,
+                "NAME": "Kroger Pharmacy 990",
+                "TYPE": "Pharmacy",
+                "TSA": null,
+                "STREET": "1215 North St",
+                "CITY": "Nacogdoches",
+                "COUNTY": "Nacogdoches",
+                "ADDRESS": "1215 North St",
+                "ZIP": "75961",
+                "LATITUDE": 31.6141083192146,
+                "LONGITUDE": -94.6530319539146,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 50,
+                "VACCINES_AVAILABLE": 50,
+                "Total_Shipped": 300,
+                "PublicPhone": "(936) 569-9884",
+                "WEBSITE": "http://www.kroger.com/stores/details/035/00990?cid=loc_03500990PP_gmb",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/09/2021      ",
+                "LAST_UPDATE_TIME_VAC": "00:00:00        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1188887102149,
+                    32.7618374595243
+                ]
+            },
+            "properties": {
+                "OBJECTID": 714,
+                "NAME": "Kroger Pharmacy 543",
+                "TYPE": "Pharmacy",
+                "TSA": null,
+                "STREET": "945 W Lamar Blvd",
+                "CITY": "Arlington",
+                "COUNTY": "Tarrant",
+                "ADDRESS": "945 W Lamar Blvd",
+                "ZIP": "76012",
+                "LATITUDE": 32.7618374595243,
+                "LONGITUDE": -97.1188887102149,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 300,
+                "VACCINES_AVAILABLE": 300,
+                "Total_Shipped": 700,
+                "PublicPhone": "(817) 277-2144",
+                "WEBSITE": "http://www.kroger.com/stores/details/035/00543?cid=loc_03500543PP_gmb",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/09/2021      ",
+                "LAST_UPDATE_TIME_VAC": "00:00:00        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.816471087514,
+                    35.1800362098107
+                ]
+            },
+            "properties": {
+                "OBJECTID": 759,
+                "NAME": "Regence Health Network - Ross",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "Ross Street",
+                "CITY": "Amarillo",
+                "COUNTY": "Potter",
+                "ADDRESS": "3113 Ross Street",
+                "ZIP": "79103",
+                "LATITUDE": 35.1800362098107,
+                "LONGITUDE": -101.816471087514,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 100,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "10:28:38        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.9586372826983,
+                    32.9020295259087
+                ]
+            },
+            "properties": {
+                "OBJECTID": 777,
+                "NAME": "MEDICAL CITY - LAS COLINAS",
+                "TYPE": "Hospital",
+                "TSA": "E",
+                "STREET": "6800 N Macarthur Blvd",
+                "CITY": "Irving",
+                "COUNTY": "Dallas",
+                "ADDRESS": "6800 N Macarthur Blvd",
+                "ZIP": "75039",
+                "LATITUDE": 32.9020295259087,
+                "LONGITUDE": -96.9586372826983,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 120,
+                "VACCINES_AVAILABLE": 120,
+                "Total_Shipped": 1600,
+                "PublicPhone": "(972) 969-2000",
+                "WEBSITE": "https://medicalcityhealthcare.com/locations/medical-city-las-colinas/?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "11:25:16        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3288099893037,
+                    32.3465629398576
+                ]
+            },
+            "properties": {
+                "OBJECTID": 816,
+                "NAME": "DSHS - HSR 4/5N - Tyler",
+                "TYPE": "Local Health Department",
+                "TSA": null,
+                "STREET": "2521 West Front Street",
+                "CITY": "Tyler",
+                "COUNTY": "Smith",
+                "ADDRESS": "2521 West Front Street",
+                "ZIP": "75702",
+                "LATITUDE": 32.3465629398576,
+                "LONGITUDE": -95.3288099893037,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 500,
+                "VACCINES_AVAILABLE": 500,
+                "Total_Shipped": 3500,
+                "PublicPhone": "(903) 595-3585",
+                "WEBSITE": "http://www.dshs.state.tx.us/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "01:40:22        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.70392,
+                    30.384204
+                ]
+            },
+            "properties": {
+                "OBJECTID": 831,
+                "NAME": "North Austin Medical Center (St. David's)",
+                "TYPE": "Hospital",
+                "TSA": "O",
+                "STREET": "12221 Mopac Exp North",
+                "CITY": "Austin",
+                "COUNTY": "Travis",
+                "ADDRESS": "12221 N MoPAC Expwy, Austin, TX, 78758",
+                "ZIP": "78758",
+                "LATITUDE": 30.384204,
+                "LONGITUDE": -97.70392,
+                "PFIZER_AVAILABLE": 10,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 10,
+                "Total_Shipped": 6400,
+                "PublicPhone": "512-901-1000",
+                "WEBSITE": "http://www.stdavids.com/medical-services/pediatrics?utm_campaign=corp_listings_mgmt&utm_source=google&utm_medium=business_listing",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "16:57:12        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.40466,
+                    29.704584
+                ]
+            },
+            "properties": {
+                "OBJECTID": 843,
+                "NAME": "Texas Childrens Hospital Main",
+                "TYPE": "Hospital",
+                "TSA": "Q",
+                "STREET": "6621 Fannin St",
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "6621 Fannin St, Houston, TX, 77030",
+                "ZIP": "77030",
+                "LATITUDE": 29.704584,
+                "LONGITUDE": -95.40466,
+                "PFIZER_AVAILABLE": 3354,
+                "MODERNA_AVAILABLE": 352,
+                "VACCINES_AVAILABLE": 3706,
+                "Total_Shipped": 36925,
+                "PublicPhone": "(832) 824-1000",
+                "WEBSITE": "https://www.texaschildrens.org/covidvaccine",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:27:04        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.326396,
+                    32.727343
+                ]
+            },
+            "properties": {
+                "OBJECTID": 846,
+                "NAME": "JPS MAIN",
+                "TYPE": "Hospital",
+                "TSA": "E",
+                "STREET": "1575 S Main St",
+                "CITY": " Fort Worth",
+                "COUNTY": "Tarrant",
+                "ADDRESS": "1575 S Main St, Fort Worth, TX, 76104",
+                "ZIP": "76104",
+                "LATITUDE": 32.727343,
+                "LONGITUDE": -97.326396,
+                "PFIZER_AVAILABLE": 1500,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 1500,
+                "Total_Shipped": 43000,
+                "PublicPhone": "817-702-3431",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "11:28:14        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.8701751,
+                    32.373062
+                ]
+            },
+            "properties": {
+                "OBJECTID": 848,
+                "NAME": "Wellness Pointe-Kilgore 040545",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": null,
+                "CITY": "Kilgore",
+                "COUNTY": null,
+                "ADDRESS": "1711 S Henderson Blvd Ste 400",
+                "ZIP": "75662",
+                "LATITUDE": 32.373062,
+                "LONGITUDE": -94.8701751,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 100,
+                "PublicPhone": "(903) 212-2610",
+                "WEBSITE": "covidkilgore@wellnesspointe.org",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "18:22:09        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6739674,
+                    29.9466955
+                ]
+            },
+            "properties": {
+                "OBJECTID": 853,
+                "NAME": "Texas Wellmed Clinic Pllc",
+                "TYPE": "Medical Practice",
+                "TSA": "Q",
+                "STREET": "12246 Queenston Blvd",
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "12246 Queenston Blvd STE A",
+                "ZIP": "77095",
+                "LATITUDE": 29.9466955,
+                "LONGITUDE": -95.6739674,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 210,
+                "VACCINES_AVAILABLE": 210,
+                "Total_Shipped": 400,
+                "PublicPhone": "(281) 246-4668",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "22:06:50        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -103.4866089,
+                    31.4092724
+                ]
+            },
+            "properties": {
+                "OBJECTID": 854,
+                "NAME": "United pharmacy 663",
+                "TYPE": "Pharmacy",
+                "TSA": null,
+                "STREET": "2783 S Cedar St",
+                "CITY": "Pecos",
+                "COUNTY": "Reeves",
+                "ADDRESS": "2783 South Cedar Street, Pecos, TX, USA",
+                "ZIP": "79772",
+                "LATITUDE": 31.4092724,
+                "LONGITUDE": -103.4866089,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 90,
+                "VACCINES_AVAILABLE": 90,
+                "Total_Shipped": 100,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "10:36:23        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.4693166015062,
+                    27.6129293477224
+                ]
+            },
+            "properties": {
+                "OBJECTID": 865,
+                "NAME": "STAT SPECIALTY HOSPITAL OF LAREDO",
+                "TYPE": "Hospital",
+                "TSA": "T",
+                "STREET": "2502 NE Bob Bullock Loop",
+                "CITY": "Laredo",
+                "COUNTY": "Webb",
+                "ADDRESS": "2502 Ne Bob Bullock Loop",
+                "ZIP": "78045",
+                "LATITUDE": 27.6129293477224,
+                "LONGITUDE": -99.4693166015062,
+                "PFIZER_AVAILABLE": 10,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 10,
+                "Total_Shipped": 6100,
+                "PublicPhone": "(830) 498-3000",
+                "WEBSITE": "http://www.statspecialtyhospital.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "10:28:28        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6812145010016,
+                    26.1658348358078
+                ]
+            },
+            "properties": {
+                "OBJECTID": 883,
+                "NAME": "DSHS - Raymondville",
+                "TYPE": "Local Health Department",
+                "TSA": null,
+                "STREET": "601 W Sesame Drive",
+                "CITY": "Harlingen",
+                "COUNTY": "Cameron",
+                "ADDRESS": "601 W Sesame Drive",
+                "ZIP": "78550",
+                "LATITUDE": 26.1658348358078,
+                "LONGITUDE": -97.6812145010016,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 1900,
+                "PublicPhone": "(956) 689-5906",
+                "WEBSITE": "https://www.dshs.texas.gov/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "09:12:05        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.2832826439792,
+                    34.1552500670402
+                ]
+            },
+            "properties": {
+                "OBJECTID": 885,
+                "NAME": "DSHS - Vernon",
+                "TYPE": "Local Health Department",
+                "TSA": null,
+                "STREET": "1531 Cumberland St",
+                "CITY": "Vernon",
+                "COUNTY": "Wilbarger",
+                "ADDRESS": "1531 Cumberland St",
+                "ZIP": "76384",
+                "LATITUDE": 34.1552500670402,
+                "LONGITUDE": -99.2832826439792,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 150,
+                "VACCINES_AVAILABLE": 150,
+                "Total_Shipped": 600,
+                "PublicPhone": "(877) 501-2233",
+                "WEBSITE": "http://www.dshs.wa.gov/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "14:38:50        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4659296542603,
+                    30.2796149675624
+                ]
+            },
+            "properties": {
+                "OBJECTID": 904,
+                "NAME": "Dept of Public Health - Montgomery County / Conroe",
+                "TYPE": "Local Health Department",
+                "TSA": null,
+                "STREET": "1300 South Loop 336 West",
+                "CITY": "Conroe",
+                "COUNTY": "Montgomery",
+                "ADDRESS": "1300 South Loop 336 West",
+                "ZIP": "77304",
+                "LATITUDE": 30.2796149675624,
+                "LONGITUDE": -95.4659296542603,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 800,
+                "VACCINES_AVAILABLE": 800,
+                "Total_Shipped": 2600,
+                "PublicPhone": "(936) 523-5020",
+                "WEBSITE": "https://www.mcphd-tx.org/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "17:58:41        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.6774061,
+                    30.6406296
+                ]
+            },
+            "properties": {
+                "OBJECTID": 907,
+                "NAME": "Dept of Public Health - Williamson County / Georgetown",
+                "TYPE": "Local Health Department",
+                "TSA": "O",
+                "STREET": "100 West #3rd Street ",
+                "CITY": "Georgetown",
+                "COUNTY": "Williamson",
+                "ADDRESS": "100 West 3rd Street, Georgetown, TX, USA",
+                "ZIP": "78626",
+                "LATITUDE": 30.6406296,
+                "LONGITUDE": -97.6774061,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 450,
+                "VACCINES_AVAILABLE": 450,
+                "Total_Shipped": 700,
+                "PublicPhone": "(512) 943-3640",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:51:00        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.334246,
+                    31.110567
+                ]
+            },
+            "properties": {
+                "OBJECTID": 908,
+                "NAME": "Frontera Healthcare-Brady",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": null,
+                "CITY": "Brady",
+                "COUNTY": "Mcculloch",
+                "ADDRESS": "2205 S Bridge St Ste 300",
+                "ZIP": "76825",
+                "LATITUDE": 31.110567,
+                "LONGITUDE": -99.334246,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 60,
+                "VACCINES_AVAILABLE": 60,
+                "Total_Shipped": 400,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "12:59:11        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.3258634644214,
+                    32.732359521432
+                ]
+            },
+            "properties": {
+                "OBJECTID": 911,
+                "NAME": "Dept of Public Health - Tarrant County / La Gran Plaza Health Center",
+                "TYPE": "Local Health Department",
+                "TSA": null,
+                "STREET": "1101 S Main St",
+                "CITY": "Fort Worth",
+                "COUNTY": "Tarrant",
+                "ADDRESS": "1101 S Main St",
+                "ZIP": "76104",
+                "LATITUDE": 32.732359521432,
+                "LONGITUDE": -97.3258634644214,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 600,
+                "PublicPhone": "(817) 920-5752",
+                "WEBSITE": "http://access.tarrantcounty.com/en/public-health/public-health-locations/lagran-plaza-mall-public-health-center.html",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:45:12        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.314720823576,
+                    30.3671804863807
+                ]
+            },
+            "properties": {
+                "OBJECTID": 914,
+                "NAME": "Dept of Public Health - Hardin County / Kountze",
+                "TYPE": "Local Health Department",
+                "TSA": null,
+                "STREET": "1135 Redwood St, Kountze, TX 77625",
+                "CITY": "Kountze",
+                "COUNTY": "Hardin",
+                "ADDRESS": "1135 Redwood",
+                "ZIP": "77625",
+                "LATITUDE": 30.3671804863807,
+                "LONGITUDE": -94.314720823576,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 640,
+                "VACCINES_AVAILABLE": 640,
+                "Total_Shipped": 1800,
+                "PublicPhone": "(409) 246-5188",
+                "WEBSITE": "http://www.co.hardin.tx.us/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "00:03:39        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.367078830659,
+                    31.846938143413
+                ]
+            },
+            "properties": {
+                "OBJECTID": 918,
+                "NAME": "Dept of Public Health - Ector County / Odessa",
+                "TYPE": "Local Health Department",
+                "TSA": null,
+                "STREET": "221 N Texas",
+                "CITY": "Odessa",
+                "COUNTY": "Ector",
+                "ADDRESS": "221 N Texas",
+                "ZIP": "79761",
+                "LATITUDE": 31.846938143413,
+                "LONGITUDE": -102.367078830659,
+                "PFIZER_AVAILABLE": 2,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 2,
+                "Total_Shipped": 1200,
+                "PublicPhone": "(432) 498-4141",
+                "WEBSITE": "http://www.co.ector.tx.us/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/10/2021      ",
+                "LAST_UPDATE_TIME_VAC": "19:17:47        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3412740310678,
+                    29.8370686670095
+                ]
+            },
+            "properties": {
+                "OBJECTID": 942,
+                "NAME": "Dept of Public Health - City of Houston / Northside Health Center",
+                "TYPE": "Local Health Department",
+                "TSA": null,
+                "STREET": "8504 Schuller",
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "8504 Schuller",
+                "ZIP": "77093",
+                "LATITUDE": 29.8370686670095,
+                "LONGITUDE": -95.3412740310678,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 320,
+                "VACCINES_AVAILABLE": 320,
+                "Total_Shipped": 1900,
+                "PublicPhone": "(832) 395-9100",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "00:13:10        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.1236067405545,
+                    29.7150342211664
+                ]
+            },
+            "properties": {
+                "OBJECTID": 962,
+                "NAME": "CHRISTUS SANTA ROSA NEW BRAUNFELS",
+                "TYPE": "Hospital",
+                "TSA": "P",
+                "STREET": "600 North Union Ave",
+                "CITY": "New Braunfels",
+                "COUNTY": "Comal",
+                "ADDRESS": "600 North Union Ave",
+                "ZIP": "78130",
+                "LATITUDE": 29.7150342211664,
+                "LONGITUDE": -98.1236067405545,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 1100,
+                "PublicPhone": "(830) 606-9111",
+                "WEBSITE": "https://www.christushealth.org/santa-rosa/new-braunfels?utm_source=organic&utm_medium=GMB&utm_campaign=website&y_source=1_MTUzNzY2MDYtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:53:36        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.2920778073799,
+                    32.3422646579996
+                ]
+            },
+            "properties": {
+                "OBJECTID": 997,
+                "NAME": "CHRISTUS MOTHER FRANCES - TYLER",
+                "TYPE": "Hospital",
+                "TSA": "G",
+                "STREET": "800 E Dawson",
+                "CITY": "Tyler",
+                "COUNTY": "Smith",
+                "ADDRESS": "800 E Dawson",
+                "ZIP": "75701",
+                "LATITUDE": 32.3422646579996,
+                "LONGITUDE": -95.2920778073799,
+                "PFIZER_AVAILABLE": 25,
+                "MODERNA_AVAILABLE": 390,
+                "VACCINES_AVAILABLE": 415,
+                "Total_Shipped": 15000,
+                "PublicPhone": "(903) 593-8441",
+                "WEBSITE": "https://www.christushealth.org/trinity/tyler?utm_source=organic&utm_medium=GMB&utm_campaign=website&y_source=1_MTE3ODE0OTItNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "12:35:38        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.277643,
+                    32.314985
+                ]
+            },
+            "properties": {
+                "OBJECTID": 998,
+                "NAME": "CHRISTUS MOTHER FRANCES - REHAB HOSPITAL",
+                "TYPE": "Hospital",
+                "TSA": "G",
+                "STREET": "3131 Troup Highway",
+                "CITY": " Tyler",
+                "COUNTY": "Smith",
+                "ADDRESS": "3131 Troup Highway, Tyler, TX, 75701",
+                "ZIP": "75701",
+                "LATITUDE": 32.314985,
+                "LONGITUDE": -95.277643,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 20,
+                "VACCINES_AVAILABLE": 20,
+                "Total_Shipped": 200,
+                "PublicPhone": "(903) 510-7000",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "09:41:44        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.35028881,
+                    30.66115361
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1005,
+                "NAME": "Chi St Joseph Health Rehabilitation Hos",
+                "TYPE": "Other",
+                "TSA": "N",
+                "STREET": "1600 Joseph Dr.",
+                "CITY": "Bryan",
+                "COUNTY": "Brazos",
+                "ADDRESS": "1600 Joseph Dr.",
+                "ZIP": "77802",
+                "LATITUDE": 30.66115361,
+                "LONGITUDE": -96.35028881,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 2,
+                "VACCINES_AVAILABLE": 2,
+                "Total_Shipped": 100,
+                "PublicPhone": "979-213-4300",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "16:29:31        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.2007687907671,
+                    29.925564285333
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1035,
+                "NAME": "Memorial Hermann Medical Group Summer Creek",
+                "TYPE": "Medical Practice",
+                "TSA": null,
+                "STREET": "14201 E Sam Houston Pkwy N",
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "14201 E Sam Houston Pkwy N",
+                "ZIP": "77044",
+                "LATITUDE": 29.925564285333,
+                "LONGITUDE": -95.2007687907671,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 1300,
+                "VACCINES_AVAILABLE": 1300,
+                "Total_Shipped": 3000,
+                "PublicPhone": "(281) 436-8888",
+                "WEBSITE": "https://www.memorialhermann.org/locations/convenient-care-summer-creek",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "01/14/2021      ",
+                "LAST_UPDATE_TIME_VAC": "17:04:43        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4561125745322,
+                    30.1743489784069
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1048,
+                "NAME": "MEMORIAL HERMANN THE WOODLANDS",
+                "TYPE": "Hospital",
+                "TSA": "Q",
+                "STREET": "9250 Pinecroft Drive",
+                "CITY": "Spring",
+                "COUNTY": "Montgomery",
+                "ADDRESS": "9250 Pinecroft Drive",
+                "ZIP": "77380",
+                "LATITUDE": 30.1743489784069,
+                "LONGITUDE": -95.4561125745322,
+                "PFIZER_AVAILABLE": 105,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 105,
+                "Total_Shipped": 15650,
+                "PublicPhone": "(713) 897-2300",
+                "WEBSITE": " https://www.memorialhermann.org/locations/woodlands",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "11:38:43        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.212099733931,
+                    34.849080217397
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1050,
+                "NAME": "Collingsworth Family Medicine",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "1011 15th St",
+                "CITY": "Wellington",
+                "COUNTY": "Collingsworth",
+                "ADDRESS": "1011 15th St",
+                "ZIP": "79095",
+                "LATITUDE": 34.849080217397,
+                "LONGITUDE": -100.212099733931,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 10,
+                "VACCINES_AVAILABLE": 10,
+                "Total_Shipped": 300,
+                "PublicPhone": "(806) 447-5311",
+                "WEBSITE": "https://culbersonhospital.org/clinic/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:31:37        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3667231414588,
+                    29.7481423448244
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1070,
+                "NAME": "ST. JOSEPH MEDICAL CENTER",
+                "TYPE": "Hospital",
+                "TSA": "Q",
+                "STREET": "1401 St Joseph Pkwy",
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "1401 St Joseph Pkwy",
+                "ZIP": "77002",
+                "LATITUDE": 29.7481423448244,
+                "LONGITUDE": -95.3667231414588,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 6,
+                "VACCINES_AVAILABLE": 6,
+                "Total_Shipped": 3400,
+                "PublicPhone": "713-757-1000",
+                "WEBSITE": "https://www.sjmctx.org/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:21:39        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.551629661839,
+                    31.8360033220782
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1072,
+                "NAME": "Albertsons Pharmacy 3932",
+                "TYPE": "Pharmacy",
+                "TSA": null,
+                "STREET": "7022 N Mesa St",
+                "CITY": "El Paso",
+                "COUNTY": "El Paso",
+                "ADDRESS": "7022 N Mesa St",
+                "ZIP": "79912",
+                "LATITUDE": 31.8360033220782,
+                "LONGITUDE": -106.551629661839,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 12,
+                "VACCINES_AVAILABLE": 12,
+                "Total_Shipped": 400,
+                "PublicPhone": "(915) 584-9481",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "18:16:39        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.350195261813,
+                    31.7560467132164
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1079,
+                "NAME": "DEL SOL MEDICAL CENTER",
+                "TYPE": "Hospital",
+                "TSA": "I",
+                "STREET": "10301 Gateway Blvd W",
+                "CITY": "El Paso",
+                "COUNTY": "El Paso",
+                "ADDRESS": "10301 Gateway Blvd W",
+                "ZIP": "79925",
+                "LATITUDE": 31.7560467132164,
+                "LONGITUDE": -106.350195261813,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 270,
+                "VACCINES_AVAILABLE": 270,
+                "Total_Shipped": 4550,
+                "PublicPhone": "915.263.6696",
+                "WEBSITE": "https://laspalmasdelsolhealthcare.com/covid-19/covid-19-vaccine-information/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:02:19        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.71439,
+                    30.518975
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1083,
+                "NAME": "ST. DAVID'S ROUND ROCK MC",
+                "TYPE": "Hospital",
+                "TSA": "O",
+                "STREET": "2400 Round Rock Ave",
+                "CITY": "Round Rock",
+                "COUNTY": "Williamson",
+                "ADDRESS": "2400 Round Rock Avenue, Round Rock, TX, 78681",
+                "ZIP": "78681",
+                "LATITUDE": 30.518975,
+                "LONGITUDE": -97.71439,
+                "PFIZER_AVAILABLE": 666,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 666,
+                "Total_Shipped": 3900,
+                "PublicPhone": "512.816.0004",
+                "WEBSITE": "https://stdavids.com/covid-19/covid-19-vaccine-information/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "19:34:39        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.7744468291171,
+                    30.2272731113373
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1086,
+                "NAME": "ST. DAVID'S SOUTH AUSTIN Medical Center",
+                "TYPE": "Hospital",
+                "TSA": "O",
+                "STREET": "901 W Ben White Blvd",
+                "CITY": "Austin",
+                "COUNTY": "Travis",
+                "ADDRESS": "901 W Ben White Blvd",
+                "ZIP": "78704",
+                "LATITUDE": 30.2272731113373,
+                "LONGITUDE": -97.7744468291171,
+                "PFIZER_AVAILABLE": 10,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 10,
+                "Total_Shipped": 4500,
+                "PublicPhone": "512.816.0004",
+                "WEBSITE": "https://stdavids.com/covid-19/covid-19-vaccine-information/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "20:38:06        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.9886543964915,
+                    29.933825070008
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1114,
+                "NAME": "MEDICAL CENTER OF SOUTHEAST TEXAS",
+                "TYPE": "Hospital",
+                "TSA": "R",
+                "STREET": "2555 Jimmy Johnson Blvd",
+                "CITY": "Port Arthur",
+                "COUNTY": "Jefferson",
+                "ADDRESS": "2555 Jimmy Johnson Blvd",
+                "ZIP": "77640",
+                "LATITUDE": 29.933825070008,
+                "LONGITUDE": -93.9886543964915,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 340,
+                "VACCINES_AVAILABLE": 340,
+                "Total_Shipped": 3450,
+                "PublicPhone": "(409) 724-7389",
+                "WEBSITE": "https://www.medicalcentersetexas.org/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "11:28:12        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4558475387547,
+                    30.2010274446573
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1121,
+                "NAME": "TEXAS CHILDREN'S WOODLANDS (LEVEL IV)",
+                "TYPE": "Hospital",
+                "TSA": "Q",
+                "STREET": "17600 Interstate 45 S",
+                "CITY": "Conroe",
+                "COUNTY": "Montgomery",
+                "ADDRESS": "17600 Interstate 45 S",
+                "ZIP": "77384",
+                "LATITUDE": 30.2010274446573,
+                "LONGITUDE": -95.4558475387547,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 5,
+                "VACCINES_AVAILABLE": 5,
+                "Total_Shipped": 5075,
+                "PublicPhone": "(936) 267-5000",
+                "WEBSITE": "http://www.texaschildrens.org/woodlands",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:58:18        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.2629471143069,
+                    32.7392173431534
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1132,
+                "NAME": "TERRELL STATE HOSPITAL",
+                "TYPE": "Hospital",
+                "TSA": "E",
+                "STREET": "1200 E Brin St",
+                "CITY": "Terrell",
+                "COUNTY": "Kaufman",
+                "ADDRESS": "1200 E Brin St",
+                "ZIP": "75160",
+                "LATITUDE": 32.7392173431534,
+                "LONGITUDE": -96.2629471143069,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 10,
+                "VACCINES_AVAILABLE": 10,
+                "Total_Shipped": 2350,
+                "PublicPhone": "972-524-6452",
+                "WEBSITE": "https://hhs.texas.gov/services/mental-health-substance-use/state-hospitals/terrell-state-hospital",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "15:46:22        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.3991674331015,
+                    29.7081549836826
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1144,
+                "NAME": "CHI BAYLOR ST. LUKE'S MEDICAL CENTER",
+                "TYPE": "Pharmacy",
+                "TSA": "Q",
+                "STREET": "6720 Bertner Ave",
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "6720 Bertner Ave",
+                "ZIP": "77030",
+                "LATITUDE": 29.7081549836826,
+                "LONGITUDE": -95.3991674331015,
+                "PFIZER_AVAILABLE": 876,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 876,
+                "Total_Shipped": 25450,
+                "PublicPhone": "832-844-6352",
+                "WEBSITE": "https://www.stlukeshealth.org/locations/baylor-st-lukes-medical-center?utm_source=LocalSearch&utm_medium=Facility&utm_campaign=CHITexas&utm_term=CHIStLukesHealthBaylorStLukesMedicalCenter&y_source=1_MTUxNjI3NTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:57:05        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.5938971981377,
+                    33.2163056327105
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1162,
+                "NAME": "WISE HEALTH SYSTEM - DECATUR",
+                "TYPE": "Hospital",
+                "TSA": "E",
+                "STREET": "609 Medical Center Dr",
+                "CITY": "Decatur",
+                "COUNTY": "Wise",
+                "ADDRESS": "609 Medical Center Dr",
+                "ZIP": "76234",
+                "LATITUDE": 33.2163056327105,
+                "LONGITUDE": -97.5938971981377,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 30,
+                "VACCINES_AVAILABLE": 30,
+                "Total_Shipped": 5350,
+                "PublicPhone": "(972) 506-9058",
+                "WEBSITE": "https://www.wisehealthsystem.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "05:23:26        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.588706,
+                    29.925443
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1167,
+                "NAME": "KINDRED HOSPITAL - NORTHWEST",
+                "TYPE": "Hospital",
+                "TSA": "Q",
+                "STREET": "11297 Fallbrook Dr",
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "11297 Fallbrook Dr, Houston, TX, 77065",
+                "ZIP": "77065",
+                "LATITUDE": 29.925443,
+                "LONGITUDE": -95.588706,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 6,
+                "VACCINES_AVAILABLE": 6,
+                "Total_Shipped": 100,
+                "PublicPhone": "(281) 517-1000",
+                "WEBSITE": "https://www.kindredhealthcare.com/locations/transitional-care-hospitals/kindred-hospital-houston-northwest",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "10:36:46        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.43599,
+                    32.834
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1182,
+                "NAME": "FISHER CO. HOSPITAL DISTRICT",
+                "TYPE": "Hospital",
+                "TSA": "D",
+                "STREET": "774 TX-70",
+                "CITY": "ROTAN",
+                "COUNTY": "Fisher",
+                "ADDRESS": "774 TX-70",
+                "ZIP": "79546",
+                "LATITUDE": 32.834,
+                "LONGITUDE": -100.43599,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 250,
+                "VACCINES_AVAILABLE": 250,
+                "Total_Shipped": 600,
+                "PublicPhone": "(325) 735-2256",
+                "WEBSITE": "http://www.fishercountyhospital.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:39:22        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.227452786745,
+                    33.150091070286
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1183,
+                "NAME": "STONEWALL MEMORIAL HOSPITAL",
+                "TYPE": "Hospital",
+                "TSA": "D",
+                "STREET": "821 N Broadway St",
+                "CITY": "Aspermont",
+                "COUNTY": "Stonewall",
+                "ADDRESS": "821 N Broadway St",
+                "ZIP": "79502",
+                "LATITUDE": 33.150091070286,
+                "LONGITUDE": -100.227452786745,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 130,
+                "VACCINES_AVAILABLE": 130,
+                "Total_Shipped": 500,
+                "PublicPhone": "(940) 989-3551",
+                "WEBSITE": "http://www.stonewallhospital.org/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "11:49:55        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.19598,
+                    31.156902
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1188,
+                "NAME": "MCCAMEY COUNTY HOSPITAL DISTRICT",
+                "TYPE": "Hospital",
+                "TSA": "J",
+                "STREET": "2500 S Highway 305",
+                "CITY": "Mccamey",
+                "COUNTY": "Upton",
+                "ADDRESS": "2500 S Hwy 305,  McCAMEY, TX, 79752",
+                "ZIP": "79752",
+                "LATITUDE": 31.156902,
+                "LONGITUDE": -102.19598,
+                "PFIZER_AVAILABLE": 252,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 252,
+                "Total_Shipped": 200,
+                "PublicPhone": "(432) 652-4030",
+                "WEBSITE": "http://www.mccameyhospital.org/getpage.php?name=contact",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:48:09        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.732656,
+                    34.206576
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1191,
+                "NAME": "COVENANT HOSPITAL - PLAINVIEW",
+                "TYPE": "Hospital",
+                "TSA": "B",
+                "STREET": "2601 Dimmitt Rd",
+                "CITY": " Plainview",
+                "COUNTY": "Hale",
+                "ADDRESS": "2601 Dimmitt Rd, Plainview, TX, 79072",
+                "ZIP": "79072",
+                "LATITUDE": 34.206576,
+                "LONGITUDE": -101.732656,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 30,
+                "VACCINES_AVAILABLE": 30,
+                "Total_Shipped": 2000,
+                "PublicPhone": "(806) 296-5531",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "11:38:25        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.246129368081,
+                    33.6600174771903
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1192,
+                "NAME": "CROSBYTON CLINIC HOSPITAL",
+                "TYPE": "Hospital",
+                "TSA": "B",
+                "STREET": "710 W Main St",
+                "CITY": "Crosbyton",
+                "COUNTY": "Crosby",
+                "ADDRESS": "710 W Main St",
+                "ZIP": "79322",
+                "LATITUDE": 33.6600174771903,
+                "LONGITUDE": -101.246129368081,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 2350,
+                "PublicPhone": "(806) 675-2382",
+                "WEBSITE": "http://crosbytonclinichospital.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "16:43:36        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.91749497732,
+                    32.6884824795128
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1193,
+                "NAME": "COGDELL MEMORIAL HOSPITAL",
+                "TYPE": "Medical Practice",
+                "TSA": "B",
+                "STREET": "1700 Cogdell Blvd",
+                "CITY": "Snyder",
+                "COUNTY": "Scurry",
+                "ADDRESS": "1700 Cogdell Blvd",
+                "ZIP": "79549",
+                "LATITUDE": 32.6884824795128,
+                "LONGITUDE": -100.91749497732,
+                "PFIZER_AVAILABLE": 975,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 975,
+                "Total_Shipped": 3725,
+                "PublicPhone": "(325) 573-1300",
+                "WEBSITE": "http://www.cogdellhospital.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:30:30        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.836367256397,
+                    32.9686499819945
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1196,
+                "NAME": "YOAKUM COUNTY HOSPITAL",
+                "TYPE": "Hospital",
+                "TSA": "B",
+                "STREET": "412 Mustang Ave",
+                "CITY": "Denver City",
+                "COUNTY": "Yoakum",
+                "ADDRESS": "412 Mustang Ave",
+                "ZIP": "79323",
+                "LATITUDE": 32.9686499819945,
+                "LONGITUDE": -102.836367256397,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 90,
+                "VACCINES_AVAILABLE": 90,
+                "Total_Shipped": 800,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:58:18        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6274815069641,
+                    31.7339850411441
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1198,
+                "NAME": "PALESTINE REGIONAL MEDICAL CENTER",
+                "TYPE": "Pharmacy",
+                "TSA": "G",
+                "STREET": "2900 S Loop 256",
+                "CITY": "Palestine",
+                "COUNTY": "Anderson",
+                "ADDRESS": "2900 S Loop 256",
+                "ZIP": "75801",
+                "LATITUDE": 31.7339850411441,
+                "LONGITUDE": -95.6274815069641,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 40,
+                "VACCINES_AVAILABLE": 40,
+                "Total_Shipped": 1100,
+                "PublicPhone": "(903) 731-1000",
+                "WEBSITE": "https://www.palestineregional.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "11:58:07        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.803867451396,
+                    32.1382189667538
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1211,
+                "NAME": "MARTIN COUNTY HOSPITAL DISTRICT",
+                "TYPE": "Hospital",
+                "TSA": "J",
+                "STREET": "600 Interstate 20 East",
+                "CITY": "Stanton",
+                "COUNTY": "Martin",
+                "ADDRESS": "600 Interstate 20 East",
+                "ZIP": "79782",
+                "LATITUDE": 32.1382189667538,
+                "LONGITUDE": -101.803867451396,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 200,
+                "VACCINES_AVAILABLE": 200,
+                "Total_Shipped": 800,
+                "PublicPhone": "(432) 607-3200",
+                "WEBSITE": "http://www.martincountyhospital.org/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "12:43:07        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.0771740735868,
+                    33.0347365527577
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1234,
+                "NAME": "ICARE REHABILITATION HOSPITAL",
+                "TYPE": "Hospital",
+                "TSA": "E",
+                "STREET": "3100 Peters Colony Road",
+                "CITY": "Flower Mound",
+                "COUNTY": "Denton",
+                "ADDRESS": "3100 Peters Colony Road",
+                "ZIP": "75022",
+                "LATITUDE": 33.0347365527577,
+                "LONGITUDE": -97.0771740735868,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 90,
+                "VACCINES_AVAILABLE": 90,
+                "Total_Shipped": 200,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/04/2021      ",
+                "LAST_UPDATE_TIME_VAC": "11:49:41        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.1134831617185,
+                    31.7037666876353
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1258,
+                "NAME": "HAMILTON GENERAL HOSPITAL",
+                "TYPE": "Hospital",
+                "TSA": "L",
+                "STREET": "400 N Brown St",
+                "CITY": "Hamilton",
+                "COUNTY": "Hamilton",
+                "ADDRESS": "400 N Brown St",
+                "ZIP": "76531",
+                "LATITUDE": 31.7037666876353,
+                "LONGITUDE": -98.1134831617185,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 45,
+                "VACCINES_AVAILABLE": 45,
+                "Total_Shipped": 800,
+                "PublicPhone": "(254) 386-1600",
+                "WEBSITE": "http://hamiltonhospital.org/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "09:07:09        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.5470807829625,
+                    33.6871823871914
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1273,
+                "NAME": "PARIS REGIONAL MEDICAL CENTER NORTH",
+                "TYPE": "Hospital",
+                "TSA": "F",
+                "STREET": "865 Deshong Dr",
+                "CITY": "Paris",
+                "COUNTY": "Lamar",
+                "ADDRESS": "865 Deshong Dr",
+                "ZIP": "75460",
+                "LATITUDE": 33.6871823871914,
+                "LONGITUDE": -95.5470807829625,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 800,
+                "VACCINES_AVAILABLE": 800,
+                "Total_Shipped": 2500,
+                "PublicPhone": "(903) 737-1111",
+                "WEBSITE": "http://parisregionalmedical.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "09:07:22        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.4779259895337,
+                    27.5327760155931
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1283,
+                "NAME": "LAREDO MED CENTER",
+                "TYPE": "Hospital",
+                "TSA": "T",
+                "STREET": "1700 East Saunders",
+                "CITY": "Laredo",
+                "COUNTY": "Webb",
+                "ADDRESS": "1700 East Saunders",
+                "ZIP": "78041",
+                "LATITUDE": 27.5327760155931,
+                "LONGITUDE": -99.4779259895337,
+                "PFIZER_AVAILABLE": 135,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 135,
+                "Total_Shipped": 3900,
+                "PublicPhone": "(956) 796-5000",
+                "WEBSITE": "https://www.laredomedical.com/?utm_campaign=gmb-website&utm_medium=organic&utm_source=google",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "09:20:18        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.9704666132902,
+                    33.1757761133722
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1302,
+                "NAME": "TITUS REGIONAL MEDICAL CENTER",
+                "TYPE": "Hospital",
+                "TSA": "F",
+                "STREET": "2001 North Jefferson",
+                "CITY": "Mount Pleasant",
+                "COUNTY": "Titus",
+                "ADDRESS": "2001 North Jefferson",
+                "ZIP": "75455",
+                "LATITUDE": 33.1757761133722,
+                "LONGITUDE": -94.9704666132902,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 560,
+                "VACCINES_AVAILABLE": 560,
+                "Total_Shipped": 3300,
+                "PublicPhone": "(903) 577-6000",
+                "WEBSITE": "https://www.titusregional.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "11:22:37        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.5872473905731,
+                    33.7106999120257
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1306,
+                "NAME": "TEXOMA MEDICAL CENTER",
+                "TYPE": "Hospital",
+                "TSA": "E",
+                "STREET": "5016 S Us Highway 75",
+                "CITY": "Denison",
+                "COUNTY": "Grayson",
+                "ADDRESS": "5016 S Us Highway 75",
+                "ZIP": "75020",
+                "LATITUDE": 33.7106999120257,
+                "LONGITUDE": -96.5872473905731,
+                "PFIZER_AVAILABLE": 650,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 650,
+                "Total_Shipped": 13800,
+                "PublicPhone": "(903) 416-4000",
+                "WEBSITE": "https://www.texomamedicalcenter.net/?utm_source=google-business&utm_medium=organic&utm_campaign=homepage",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:29:38        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.8362655196507,
+                    32.8086273385252
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1319,
+                "NAME": "CHST CHILDREN'S MEDICAL CENTER - DALLAS",
+                "TYPE": "Hospital",
+                "TSA": "E",
+                "STREET": "1935 Medical District Drive",
+                "CITY": "Dallas",
+                "COUNTY": "Dallas",
+                "ADDRESS": "1935 Medical District Drive",
+                "ZIP": "75235",
+                "LATITUDE": 32.8086273385252,
+                "LONGITUDE": -96.8362655196507,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 4580,
+                "VACCINES_AVAILABLE": 4580,
+                "Total_Shipped": 21400,
+                "PublicPhone": "(214) 456-7000",
+                "WEBSITE": "https://www.childrens.com/location-landing/locations-and-directions/childrens-health-dallas?utm_source=google&utm_medium=yext&utm_campaign=Childrens%20Health%20Locations%20%20Childrens%20Medical%20Center%20%20Dallas%20%20Brand",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:42:41        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.3244800251777,
+                    34.1530775000179
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1321,
+                "NAME": "North Texas State Hospital - Vernon",
+                "TYPE": "Hospital",
+                "TSA": "C",
+                "STREET": "4730 College Drive",
+                "CITY": "Vernon",
+                "COUNTY": "Wilbarger",
+                "ADDRESS": "4730 College Drive",
+                "ZIP": "76384",
+                "LATITUDE": 34.1530775000179,
+                "LONGITUDE": -99.3244800251777,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 57,
+                "VACCINES_AVAILABLE": 57,
+                "Total_Shipped": 3400,
+                "PublicPhone": "(940) 552-9901",
+                "WEBSITE": "https://hhs.texas.gov/services/mental-health-substance-use/state-hospitals/north-texas-state-hospital",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "09:17:17        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4187024642801,
+                    29.8751134843917
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1331,
+                "NAME": "Acres Home Health Center",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "818 Ringold St",
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "818 Ringold St",
+                "ZIP": "77088",
+                "LATITUDE": 29.8751134843917,
+                "LONGITUDE": -95.4187024642801,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 1000,
+                "PublicPhone": "(281) 448-6391",
+                "WEBSITE": "https://www.harrishealth.org/locations-hh/Pages/acres-home-health-center.aspx",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:32:57        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4729077292013,
+                    29.86833361437
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1371,
+                "NAME": "UT Physicians Multispecialty Clinic - Victory",
+                "TYPE": "Community Clinic",
+                "TSA": "Q",
+                "STREET": "7364 Antoine Dr",
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "7364 Antoine Dr",
+                "ZIP": "77088",
+                "LATITUDE": 29.86833361437,
+                "LONGITUDE": -95.4729077292013,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 193,
+                "VACCINES_AVAILABLE": 193,
+                "Total_Shipped": 600,
+                "PublicPhone": "(713) 486-7350",
+                "WEBSITE": "https://www.utphysicians.com/clinic/ut-physicians-multispecialty-victory/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:13:41        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.94439,
+                    32.73419
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1414,
+                "NAME": "Wellness Pointe - Gilmer",
+                "TYPE": "Community Clinic",
+                "TSA": "G",
+                "STREET": "602 Titus St Suite 130",
+                "CITY": "Gilmer",
+                "COUNTY": "Upshur",
+                "ADDRESS": "602 Titus St Suite 130",
+                "ZIP": "75644",
+                "LATITUDE": 32.73419,
+                "LONGITUDE": -94.94439,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 310,
+                "VACCINES_AVAILABLE": 310,
+                "Total_Shipped": 400,
+                "PublicPhone": "(903) 758-2610",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "18:12:23        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.177434,
+                    33.5822588
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1424,
+                "NAME": "Carevide Bonham",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "920 N Center St",
+                "CITY": "Bonham",
+                "COUNTY": "Fannin",
+                "ADDRESS": "920 North Center Street, Bonham, TX, USA",
+                "ZIP": "75418",
+                "LATITUDE": 33.5822588,
+                "LONGITUDE": -96.177434,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 50,
+                "VACCINES_AVAILABLE": 50,
+                "Total_Shipped": 100,
+                "PublicPhone": "903-583-6155",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "14:40:30        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.317035,
+                    29.810566
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1487,
+                "NAME": "Cleveland E Odom",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "5516 Lockwood Dr",
+                "CITY": "Houston",
+                "COUNTY": "HARRIS",
+                "ADDRESS": "5516 Lockwood Dr",
+                "ZIP": "77026",
+                "LATITUDE": 29.810566,
+                "LONGITUDE": -95.317035,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 101,
+                "VACCINES_AVAILABLE": 101,
+                "Total_Shipped": 200,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "11:27:00        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.743549,
+                    32.941253
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1536,
+                "NAME": "ALLIANCE UNITED HOSPICE CARE INC",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "811 SOUTH CENTRAL EXPRESSWAY",
+                "CITY": "Richardson",
+                "COUNTY": "DALLAS",
+                "ADDRESS": "811 SOUTH CENTRAL EXPRESSWAY",
+                "ZIP": "75080",
+                "LATITUDE": 32.941253,
+                "LONGITUDE": -96.743549,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 30,
+                "VACCINES_AVAILABLE": 30,
+                "Total_Shipped": 200,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:23:01        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.74491,
+                    30.40588
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1554,
+                "NAME": "Lone Star Circle of Care at Northwest Austin \u2013 Family Medicine",
+                "TYPE": "Other",
+                "TSA": "O",
+                "STREET": "11111 Research Blvd Ste 320",
+                "CITY": "Austin",
+                "COUNTY": "Travis",
+                "ADDRESS": "11111 Research Blvd Ste 320",
+                "ZIP": "78759",
+                "LATITUDE": 30.40588,
+                "LONGITUDE": -97.74491,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 30,
+                "VACCINES_AVAILABLE": 30,
+                "Total_Shipped": 200,
+                "PublicPhone": "(877) 800-5722",
+                "WEBSITE": "www.lonestarcares.org",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "13:09:31        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.973087,
+                    33.1758774
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1556,
+                "NAME": "Wellness Pointe - Mount Pleasant",
+                "TYPE": "Medical Practice",
+                "TSA": "F",
+                "STREET": "2015 Mulberry Ave Ste 250",
+                "CITY": "Mount Pleasant",
+                "COUNTY": "Titus",
+                "ADDRESS": "2015 Mulberry Ave Ste 250",
+                "ZIP": "75455",
+                "LATITUDE": 33.1758774,
+                "LONGITUDE": -94.973087,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 20,
+                "VACCINES_AVAILABLE": 20,
+                "Total_Shipped": 200,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "17:26:19        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -93.7473,
+                    30.1058
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1564,
+                "NAME": "Kroger Pharmacy 950",
+                "TYPE": "Other",
+                "TSA": "R",
+                "STREET": "1600 N 16th St",
+                "CITY": "Orange",
+                "COUNTY": "Orange",
+                "ADDRESS": "1600 N 16th St Orange, TX 77630",
+                "ZIP": "77630",
+                "LATITUDE": 30.1058,
+                "LONGITUDE": -93.7473,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 20,
+                "VACCINES_AVAILABLE": 20,
+                "Total_Shipped": 100,
+                "PublicPhone": "(409) 883-8521",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "01/26/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:45:59        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.3900331,
+                    33.202634
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1591,
+                "NAME": "Garza County Health Clinic",
+                "TYPE": "Medical Practice",
+                "TSA": "B",
+                "STREET": "1104 N. Avenue S",
+                "CITY": "Post",
+                "COUNTY": "Garza",
+                "ADDRESS": "1104 N. Avenue S",
+                "ZIP": "79356",
+                "LATITUDE": 33.202634,
+                "LONGITUDE": -101.3900331,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 311,
+                "VACCINES_AVAILABLE": 311,
+                "Total_Shipped": 400,
+                "PublicPhone": "806-495-2853",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:54:36        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.9443967691068,
+                    32.8332499103799
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1606,
+                "NAME": "Irving Health Center Parkland Health And Hospital",
+                "TYPE": "Other",
+                "TSA": "E",
+                "STREET": "1800 N Britain Rd",
+                "CITY": "Irving",
+                "COUNTY": "Dallas",
+                "ADDRESS": "1800 N Britain Rd",
+                "ZIP": "75061",
+                "LATITUDE": 32.8332499103799,
+                "LONGITUDE": -96.9443967691068,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 100,
+                "PublicPhone": "214-266-3031",
+                "WEBSITE": "https://www.parklandhospital.com/locations/irving-health-center-7",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:01:45        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.750436,
+                    32.770501
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1607,
+                "NAME": "Hatcher Station Health Center",
+                "TYPE": "Other",
+                "TSA": "E",
+                "STREET": "4600 Scyene Rd",
+                "CITY": "Dallas",
+                "COUNTY": "Dallas",
+                "ADDRESS": "4600 Scyene Rd., Dallas, TX 75210",
+                "ZIP": "75210",
+                "LATITUDE": 32.770501,
+                "LONGITUDE": -96.750436,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 150,
+                "VACCINES_AVAILABLE": 150,
+                "Total_Shipped": 200,
+                "PublicPhone": "(214) 266-2017",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:04:44        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -102.100177324424,
+                    31.9974792618293
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1624,
+                "NAME": "Allison Cancer Center",
+                "TYPE": "Medical Practice",
+                "TSA": null,
+                "STREET": "400 Rosalind Grover Pkwy",
+                "CITY": "Midland",
+                "COUNTY": "Midland",
+                "ADDRESS": "400 Rosalind Grover Pkwy",
+                "ZIP": "79701",
+                "LATITUDE": 31.9974792618293,
+                "LONGITUDE": -102.100177324424,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 32,
+                "VACCINES_AVAILABLE": 32,
+                "Total_Shipped": 200,
+                "PublicPhone": "(432) 687-1949",
+                "WEBSITE": "https://www.texasoncology.com/cancer-centers/midland/midland-allison-cancer-center/medical-oncology",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "15:19:05        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.2383919356225,
+                    33.1485250331121
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1712,
+                "NAME": "Franklin County Rural Health Clinic",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "506 Texas Highway 37",
+                "CITY": "Mount Vernon",
+                "COUNTY": "Franklin",
+                "ADDRESS": "506 Texas Highway 37",
+                "ZIP": "75457",
+                "LATITUDE": 33.1485250331121,
+                "LONGITUDE": -95.2383919356225,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 230,
+                "VACCINES_AVAILABLE": 230,
+                "Total_Shipped": 500,
+                "PublicPhone": "(903) 537-8222",
+                "WEBSITE": "http://www.fcrhc.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "09:29:29        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.454,
+                    31.4921
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1795,
+                "NAME": "La Esperanza Clinic- 31st Street",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "35 e 31st st",
+                "CITY": "San Angelo",
+                "COUNTY": "Tom Green",
+                "ADDRESS": "35 E 31st St",
+                "ZIP": "76903",
+                "LATITUDE": 31.4921,
+                "LONGITUDE": -100.454,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 300,
+                "VACCINES_AVAILABLE": 300,
+                "Total_Shipped": 400,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:43:40        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6316490730417,
+                    31.7357276807243
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1812,
+                "NAME": "Christus Trinity Clinic Magnolia Medical Plaza",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "3201 South Loop 256",
+                "CITY": "Palestine",
+                "COUNTY": "Anderson",
+                "ADDRESS": "3201 South Loop 256",
+                "ZIP": "75801",
+                "LATITUDE": 31.7357276807243,
+                "LONGITUDE": -95.6316490730417,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 50,
+                "VACCINES_AVAILABLE": 50,
+                "Total_Shipped": 3800,
+                "PublicPhone": "(903) 723-0330",
+                "WEBSITE": "https://www.christushealth.org/trinity/clinic/locations-directions/magnolia-medical-plaza-palestine?utm_source=organic&utm_medium=GMB&utm_campaign=website&y_source=1_MTE3ODEzMjQtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:49:02        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4843280722779,
+                    32.6785643411235
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1821,
+                "NAME": "Trinity Clinic Mineola",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "1302 N Pacific St",
+                "CITY": "Mineola",
+                "COUNTY": "Wood",
+                "ADDRESS": "1302 N Pacific St",
+                "ZIP": "75773",
+                "LATITUDE": 32.6785643411235,
+                "LONGITUDE": -95.4843280722779,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 110,
+                "VACCINES_AVAILABLE": 110,
+                "Total_Shipped": 500,
+                "PublicPhone": "(903) 569-5383",
+                "WEBSITE": "https://www.christushealth.org/trinity/clinic/locations-directions/mineola?utm_source=organic&utm_medium=GMB&utm_campaign=website&y_source=1_MTE3ODEyMDUtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "16:50:28        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.2988567,
+                    32.3439848
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1837,
+                "NAME": "Tyler Family Circle of Care",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "214 E Houston St",
+                "CITY": "Tyler",
+                "COUNTY": "Smith",
+                "ADDRESS": "214 East Houston Street, Tyler, TX, USA",
+                "ZIP": "75702",
+                "LATITUDE": 32.3439848,
+                "LONGITUDE": -95.2988567,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 200,
+                "PublicPhone": "903-593-1892",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:02:30        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.7304037933845,
+                    32.5028973782914
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1844,
+                "NAME": "Longview Wellness Center",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "705 E Marshall Ave",
+                "CITY": "Longview",
+                "COUNTY": "Gregg",
+                "ADDRESS": "705 E Marshall Ave",
+                "ZIP": "75601",
+                "LATITUDE": 32.5028973782914,
+                "LONGITUDE": -94.7304037933845,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 700,
+                "PublicPhone": "(903) 758-2610",
+                "WEBSITE": "http://www.wellnesspointe.org/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "18:14:57        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.536487717731,
+                    36.4601770699411
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1854,
+                "NAME": "Teare Memorial Clinic",
+                "TYPE": "Medical Practice",
+                "TSA": null,
+                "STREET": "146 N Pioneer",
+                "CITY": "Booker",
+                "COUNTY": "Lipscomb",
+                "ADDRESS": "146 N Pioneer",
+                "ZIP": "79005",
+                "LATITUDE": 36.4601770699411,
+                "LONGITUDE": -100.536487717731,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 20,
+                "VACCINES_AVAILABLE": 20,
+                "Total_Shipped": 200,
+                "PublicPhone": "(806) 658-4531",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "10:41:37        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -100.919112433176,
+                    32.7067800065068
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1863,
+                "NAME": "United Pharmacy 549",
+                "TYPE": "Pharmacy",
+                "TSA": null,
+                "STREET": "3500 College Ave",
+                "CITY": "Snyder",
+                "COUNTY": "Scurry",
+                "ADDRESS": "3500 College Ave",
+                "ZIP": "79549",
+                "LATITUDE": 32.7067800065068,
+                "LONGITUDE": -100.919112433176,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 20,
+                "VACCINES_AVAILABLE": 20,
+                "Total_Shipped": 200,
+                "PublicPhone": "(325) 574-1683",
+                "WEBSITE": "https://local.pharmacy.unitedsupermarkets.com/tx/snyder/3500-college-ave.html",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "09:15:41        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -101.866267492001,
+                    35.1862589899387
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1871,
+                "NAME": "United Pharmacy 526",
+                "TYPE": "Pharmacy",
+                "TSA": null,
+                "STREET": "2530 S Georgia St",
+                "CITY": "Amarillo",
+                "COUNTY": "Randall",
+                "ADDRESS": "2530 S Georgia St",
+                "ZIP": "79109",
+                "LATITUDE": 35.1862589899387,
+                "LONGITUDE": -101.866267492001,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 10,
+                "VACCINES_AVAILABLE": 10,
+                "Total_Shipped": 400,
+                "PublicPhone": "(806) 468-9911",
+                "WEBSITE": "https://local.pharmacy.marketstreetunited.com/tx/amarillo/2530-s-georgia-st.html",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/10/2021      ",
+                "LAST_UPDATE_TIME_VAC": "09:32:23        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.9673357112182,
+                    29.8594699613097
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1894,
+                "NAME": "San Marcos Family Medicine",
+                "TYPE": "Medical Practice",
+                "TSA": null,
+                "STREET": "2406 Hunter Rd",
+                "CITY": "San Marcos",
+                "COUNTY": "Hays",
+                "ADDRESS": "2406 Hunter Rd",
+                "ZIP": "78666",
+                "LATITUDE": 29.8594699613097,
+                "LONGITUDE": -97.9673357112182,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 17,
+                "VACCINES_AVAILABLE": 17,
+                "Total_Shipped": 1000,
+                "PublicPhone": "(512) 396-7686",
+                "WEBSITE": "http://www.smfm.net/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:58:35        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -99.2883039,
+                    32.7316832
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1900,
+                "NAME": "ResourceCare Albany",
+                "TYPE": "Medical Practice",
+                "TSA": null,
+                "STREET": "725 Pate St",
+                "CITY": "Albany",
+                "COUNTY": "Shackelford",
+                "ADDRESS": "725 Pate Street, Albany, TX, USA",
+                "ZIP": "76430",
+                "LATITUDE": 32.7316832,
+                "LONGITUDE": -99.2883039,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 300,
+                "PublicPhone": "(254) 559-7215",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "10:36:34        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.4876396,
+                    31.7627729
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1928,
+                "NAME": "Dshs Phr 9 /10 Hq - El Paso (Re)",
+                "TYPE": "Local Health Department",
+                "TSA": null,
+                "STREET": "401 E Franklin Ave",
+                "CITY": "El Paso",
+                "COUNTY": "El Paso",
+                "ADDRESS": "401 E Franklin Ave, El Paso, TX, USA",
+                "ZIP": "79901",
+                "LATITUDE": 31.7627729,
+                "LONGITUDE": -106.4876396,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 30,
+                "VACCINES_AVAILABLE": 30,
+                "Total_Shipped": 700,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/09/2021      ",
+                "LAST_UPDATE_TIME_VAC": "16:12:53        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.267592648366,
+                    31.7833650539552
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1945,
+                "NAME": "Ep Family Doctor",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "2270 Joe Battle Suite Mn",
+                "CITY": "El Paso",
+                "COUNTY": "El Paso",
+                "ADDRESS": "2270 Joe Battle Suite Mn",
+                "ZIP": "79938",
+                "LATITUDE": 31.7833650539552,
+                "LONGITUDE": -106.267592648366,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 50,
+                "VACCINES_AVAILABLE": 50,
+                "Total_Shipped": 1000,
+                "PublicPhone": "(915) 855-7000",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:33:56        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.33868,
+                    29.71953
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1946,
+                "NAME": "Lone Star Circle Of Care  At The University Of Houston",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": null,
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "4849 Calhoun Road",
+                "ZIP": "77204",
+                "LATITUDE": 29.71953,
+                "LONGITUDE": -95.33868,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 50,
+                "VACCINES_AVAILABLE": 50,
+                "Total_Shipped": 200,
+                "PublicPhone": "877-800-5722",
+                "WEBSITE": "www.lonestarcares.org",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "16:59:59        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.68933,
+                    30.65988
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1947,
+                "NAME": "Lake Aire Med Ctr Sr Health Wellness",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "2423 Williams Dr",
+                "CITY": "Georgetown",
+                "COUNTY": "Williamson",
+                "ADDRESS": "2423 Williams Dr Ste 113",
+                "ZIP": "78628",
+                "LATITUDE": 30.65988,
+                "LONGITUDE": -97.68933,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 20,
+                "VACCINES_AVAILABLE": 20,
+                "Total_Shipped": 200,
+                "PublicPhone": "877-800-5722",
+                "WEBSITE": "www.lonestarcares.org",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:23:32        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.1092525143683,
+                    33.1218196652465
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1972,
+                "NAME": "Super 1 Pharmacy 615",
+                "TYPE": "Pharmacy",
+                "TSA": null,
+                "STREET": "4811 Wesley St",
+                "CITY": "Greenville",
+                "COUNTY": "Hunt",
+                "ADDRESS": "4811 Wesley St",
+                "ZIP": "75401",
+                "LATITUDE": 33.1218196652465,
+                "LONGITUDE": -96.1092525143683,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 40,
+                "VACCINES_AVAILABLE": 40,
+                "Total_Shipped": 300,
+                "PublicPhone": "(903) 454-8701",
+                "WEBSITE": "https://www.brookshires.com/covid-19-information",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "23:51:07        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.0189547349398,
+                    29.4016752931727
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1991,
+                "NAME": "Coastal Health & Wellness",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "9850 Emmett F Lowry Expressway",
+                "CITY": "Texas City",
+                "COUNTY": "Galveston",
+                "ADDRESS": "9850 Emmett F Lowry Expressway",
+                "ZIP": "77591",
+                "LATITUDE": 29.4016752931727,
+                "LONGITUDE": -95.0189547349398,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 40,
+                "VACCINES_AVAILABLE": 40,
+                "Total_Shipped": 300,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "16:24:13        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.7733386330182,
+                    32.9096896634018
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1992,
+                "NAME": "Ahf Pharmacy 2400",
+                "TYPE": "Pharmacy",
+                "TSA": null,
+                "STREET": "7777 Forest Lane",
+                "CITY": "Dallas",
+                "COUNTY": "Dallas",
+                "ADDRESS": "7777 Forest Lane",
+                "ZIP": "75230",
+                "LATITUDE": 32.9096896634018,
+                "LONGITUDE": -96.7733386330182,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 200,
+                "PublicPhone": "(972)383-1070",
+                "WEBSITE": "https://ahfbatonrouge.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:50:55        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.1096975096084,
+                    33.1049429965694
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2004,
+                "NAME": "Brookshires Pharmacy 74",
+                "TYPE": "Pharmacy",
+                "TSA": null,
+                "STREET": "6410 Wesley St",
+                "CITY": "Greenville",
+                "COUNTY": "Hunt",
+                "ADDRESS": "6410 Wesley St",
+                "ZIP": "75402",
+                "LATITUDE": 33.1049429965694,
+                "LONGITUDE": -96.1096975096084,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 90,
+                "VACCINES_AVAILABLE": 90,
+                "Total_Shipped": 300,
+                "PublicPhone": "(903) 455-1076",
+                "WEBSITE": "https://www.brookshires.com/covid-19-information",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "17:51:58        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4010922533465,
+                    29.7230652997843
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2058,
+                "NAME": "Medical Clinic Of Houston Houston 170",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "1701 Sunset Blvd",
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "1701 Sunset Blvd",
+                "ZIP": "77005",
+                "LATITUDE": 29.7230652997843,
+                "LONGITUDE": -95.4010922533465,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 50,
+                "VACCINES_AVAILABLE": 50,
+                "Total_Shipped": 2000,
+                "PublicPhone": "(713) 526-5511",
+                "WEBSITE": "https://mchllp.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "16:53:46        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.589719514637,
+                    33.096301212486
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2085,
+                "NAME": "Graham Heath Care Pllc ",
+                "TYPE": "Medical Practice",
+                "TSA": null,
+                "STREET": "1005 State Highway 16 S",
+                "CITY": "Graham",
+                "COUNTY": "Young",
+                "ADDRESS": "1005 State Highway 16 S",
+                "ZIP": "76450",
+                "LATITUDE": 33.096301212486,
+                "LONGITUDE": -98.589719514637,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 20,
+                "VACCINES_AVAILABLE": 20,
+                "Total_Shipped": 200,
+                "PublicPhone": "(940) 282-2512",
+                "WEBSITE": "http://www.grahamhealth.org/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "10:07:04        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.5815821115773,
+                    29.5147391732387
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2098,
+                "NAME": "University Of Tx Medicine",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "8300 Floyd Curl Dr",
+                "CITY": "San Antonio",
+                "COUNTY": "Bexar",
+                "ADDRESS": "8300 Floyd Curl Dr",
+                "ZIP": "78229",
+                "LATITUDE": 29.5147391732387,
+                "LONGITUDE": -98.5815821115773,
+                "PFIZER_AVAILABLE": 355,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 355,
+                "Total_Shipped": 4100,
+                "PublicPhone": "(512) 495-5555",
+                "WEBSITE": "https://dellmed.utexas.edu/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "07:33:51        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -106.480206,
+                    31.7534585
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2125,
+                "NAME": "Child and Adolescent Wellness Center El Paso",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "721 S Ochoa St",
+                "CITY": "El Paso",
+                "COUNTY": "El Paso",
+                "ADDRESS": "721 South Ochoa Street, El Paso, TX, USA",
+                "ZIP": "79901",
+                "LATITUDE": 31.7534585,
+                "LONGITUDE": -106.480206,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 10,
+                "VACCINES_AVAILABLE": 10,
+                "Total_Shipped": 100,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:19:52        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.301021,
+                    29.7345052
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2136,
+                "NAME": "El Centro De Corazon Magnolia Clinic",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "Capitol St",
+                "CITY": "Houston",
+                "COUNTY": "Harris ",
+                "ADDRESS": "7037 Capitol St suite 100",
+                "ZIP": "77011",
+                "LATITUDE": 29.7345052,
+                "LONGITUDE": -95.301021,
+                "PFIZER_AVAILABLE": 790,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 790,
+                "Total_Shipped": 100,
+                "PublicPhone": null,
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "20:42:59        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.8533731023098,
+                    29.8405650816115
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2143,
+                "NAME": "West Chambers Medical Clinic",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "9825 Eagle Dr",
+                "CITY": "Baytown",
+                "COUNTY": "Chambers",
+                "ADDRESS": "9825 Eagle Dr",
+                "ZIP": "77523",
+                "LATITUDE": 29.8405650816115,
+                "LONGITUDE": -94.8533731023098,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 20,
+                "VACCINES_AVAILABLE": 20,
+                "Total_Shipped": 200,
+                "PublicPhone": "(281) 576-0670",
+                "WEBSITE": "http://www.chambershealth.org/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "06:41:36        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.7381458122927,
+                    30.4315675424558
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2184,
+                "NAME": "Austin Radiological Association",
+                "TYPE": "Medical Practice",
+                "TSA": null,
+                "STREET": "12554 Riata Vista Circle",
+                "CITY": "Austin",
+                "COUNTY": "Travis",
+                "ADDRESS": "12554 Riata Vista Circle",
+                "ZIP": "78727",
+                "LATITUDE": 30.4315675424558,
+                "LONGITUDE": -97.7381458122927,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 35,
+                "VACCINES_AVAILABLE": 35,
+                "Total_Shipped": 1000,
+                "PublicPhone": "(512) 453-6100",
+                "WEBSITE": "http://www.ausrad.com/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "12:37:21        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.5201868373648,
+                    33.0117911158683
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2257,
+                "NAME": "WYLIE FIRE STATION 3",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "WA ALLEN BLVD",
+                "CITY": "WYLIE",
+                "COUNTY": "COLLIN",
+                "ADDRESS": "210 N. WA ALLEN BLVD",
+                "ZIP": "75098",
+                "LATITUDE": 33.0117911158683,
+                "LONGITUDE": -96.5201868373648,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 1000,
+                "VACCINES_AVAILABLE": 1000,
+                "Total_Shipped": 600,
+                "PublicPhone": "(972) 442-8110",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:55:54        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.0732998040606,
+                    31.6520198330403
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2266,
+                "NAME": "Brookshire Brothers Pharmacy 7",
+                "TYPE": "Pharmacy",
+                "TSA": null,
+                "STREET": "210 N Marcus",
+                "CITY": "Alto",
+                "COUNTY": "Cherokee",
+                "ADDRESS": "210 N Marcus",
+                "ZIP": "75925",
+                "LATITUDE": 31.6520198330403,
+                "LONGITUDE": -95.0732998040606,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 80,
+                "VACCINES_AVAILABLE": 80,
+                "Total_Shipped": 300,
+                "PublicPhone": "936-858-4311",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "16:19:07        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.6444406127171,
+                    29.7427066696438
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2293,
+                "NAME": "West Oaks Urgent Care",
+                "TYPE": "Medical Practice",
+                "TSA": null,
+                "STREET": "2150 Highway 6 S Ste 100",
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "2150 Highway 6 S Ste 100",
+                "ZIP": "77077",
+                "LATITUDE": 29.7427066696438,
+                "LONGITUDE": -95.6444406127171,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 430,
+                "VACCINES_AVAILABLE": 430,
+                "Total_Shipped": 2000,
+                "PublicPhone": "(281) 496-4948",
+                "WEBSITE": "http://www.westoaksurgentcare.net/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "19:24:03        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.5492042917613,
+                    29.902984346792
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2295,
+                "NAME": "West Oaks Urgent Care Ii",
+                "TYPE": "Medical Practice",
+                "TSA": null,
+                "STREET": "9138 West Rd",
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "9138 West Rd",
+                "ZIP": "77064",
+                "LATITUDE": 29.902984346792,
+                "LONGITUDE": -95.5492042917613,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 500,
+                "VACCINES_AVAILABLE": 500,
+                "Total_Shipped": 2000,
+                "PublicPhone": "(832) 230-8772",
+                "WEBSITE": "http://www.westoaksurgentcare.net/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/11/2021      ",
+                "LAST_UPDATE_TIME_VAC": "19:37:40        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.4027741660378,
+                    29.7091518434274
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2298,
+                "NAME": "Baylor College Of Medicine",
+                "TYPE": "Other",
+                "TSA": null,
+                "STREET": "6620 Main Street",
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "6620 Main Street",
+                "ZIP": "77030",
+                "LATITUDE": 29.7091518434274,
+                "LONGITUDE": -95.4027741660378,
+                "PFIZER_AVAILABLE": 1425,
+                "MODERNA_AVAILABLE": 0,
+                "VACCINES_AVAILABLE": 1425,
+                "Total_Shipped": 11900,
+                "PublicPhone": "(713) 798-4951",
+                "WEBSITE": "https://www.bcm.edu/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "08:07:52        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.508894676114,
+                    29.6874407863652
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2299,
+                "NAME": "Clinica Hispana Ii Pa",
+                "TYPE": "Medical Practice",
+                "TSA": null,
+                "STREET": "8410 Fondren Rd",
+                "CITY": "Houston",
+                "COUNTY": "Harris",
+                "ADDRESS": "8410 Fondren Rd",
+                "ZIP": "77074",
+                "LATITUDE": 29.6874407863652,
+                "LONGITUDE": -95.508894676114,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 690,
+                "VACCINES_AVAILABLE": 690,
+                "Total_Shipped": 1000,
+                "PublicPhone": "(713) 484-7455",
+                "WEBSITE": null,
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "11:11:09        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -97.1777653774139,
+                    27.9253042712463
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2348,
+                "NAME": "Walgreens Pharmacy 10680",
+                "TYPE": "Pharmacy",
+                "TSA": null,
+                "STREET": "2702 W Wheeler Ave",
+                "CITY": "Aransas Pass",
+                "COUNTY": "San Patricio",
+                "ADDRESS": "2702 W Wheeler Ave",
+                "ZIP": "78336",
+                "LATITUDE": 27.9253042712463,
+                "LONGITUDE": -97.1777653774139,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 20,
+                "VACCINES_AVAILABLE": 20,
+                "Total_Shipped": 300,
+                "PublicPhone": "(361) 758-2135",
+                "WEBSITE": "Walgreens.com/covid19vac",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/13/2021      ",
+                "LAST_UPDATE_TIME_VAC": "13:32:01        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.4356099956146,
+                    26.2421445409738
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2357,
+                "NAME": "Eduardo Guzman Md",
+                "TYPE": "Medical Practice",
+                "TSA": null,
+                "STREET": "2308 Hwy 83 Ste F",
+                "CITY": "Penitas",
+                "COUNTY": "Hidalgo",
+                "ADDRESS": "2308 Hwy 83 Ste F",
+                "ZIP": "78576",
+                "LATITUDE": 26.2421445409738,
+                "LONGITUDE": -98.4356099956146,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 20,
+                "VACCINES_AVAILABLE": 20,
+                "Total_Shipped": 200,
+                "PublicPhone": "(956) 519-9100",
+                "WEBSITE": "http://eduardo-guzman.poi.place/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "10:20:03        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.2406922887269,
+                    29.2254635594903
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2364,
+                "NAME": "Connally Memorial Family Practice North",
+                "TYPE": "Community Clinic",
+                "TSA": null,
+                "STREET": "6511 Us Highway 181 N Ste A",
+                "CITY": "Floresville",
+                "COUNTY": "Wilson",
+                "ADDRESS": "6511 Us Highway 181 N Ste A",
+                "ZIP": "78114",
+                "LATITUDE": 29.2254635594903,
+                "LONGITUDE": -98.2406922887269,
+                "PFIZER_AVAILABLE": 0,
+                "MODERNA_AVAILABLE": 100,
+                "VACCINES_AVAILABLE": 100,
+                "Total_Shipped": 900,
+                "PublicPhone": "(830) 393-1400",
+                "WEBSITE": "http://www.connallymmc.org/",
+                "RemoveRecord": null,
+                "LAST_UPDATE_VAC": "02/12/2021      ",
+                "LAST_UPDATE_TIME_VAC": "09:11:13        ",
+                "marker-symbol": "circle-15",
+                "marker-color": "#228B22"
+            }
+        }
+    ]
+}
