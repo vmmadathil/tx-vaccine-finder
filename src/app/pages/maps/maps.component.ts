@@ -56,7 +56,7 @@ export class MapsComponent implements OnInit {
 
         var popup = new mapboxgl.Popup({ offset: [0, -15] })
             .setLngLat(feature.geometry.coordinates)
-            .setHTML('<p> <font size="2">' + feature.properties.NAME + '</font></p><p>' + feature.properties.ADDRESS + '</p>')
+            .setHTML('<p> <font size="2.5">' + feature.properties.NAME + '</font></p><p><strong>Address: </strong>' + feature.properties.ADDRESS + ' ' +feature.properties.CITY + ', TX ' +  feature.properties.ZIP +  '</p>' + '<p><strong>Vaccines Avaliable: </strong>' + feature.properties.VACCINES_AVAILABLE + '<p><strong>Vaccines Phone: </strong>' + feature.properties.PublicPhone + '<p><strong>Last Updated: </strong>' + feature.properties.LAST_UPDATE_TIME_VAC + feature.properties.LAST_UPDATE_VAC)
             .addTo(this.map);
 
     }
