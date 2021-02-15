@@ -45,7 +45,7 @@ export class MapsComponent implements OnInit {
         console.log('clicked')
 
         var features = this.map.queryRenderedFeatures(e.point, {
-            layers: ['avaliable', 'none', 'hubs']
+            layers: ['avaliable', 'none']
         });
 
         if (!features.length) {
