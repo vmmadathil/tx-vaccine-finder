@@ -26,14 +26,14 @@ export class OverviewComponent implements OnInit{
         type: 'bar',
 
         data: {
-          labels: ["Dec 14 - Dec 20", "Dec 21 - Dec 27", "Dec 28 - Jan 3", "Jan 4 - Jan 10", "Jan 11 - Jan 17", "Jan 18 - Jan 24", "Jan 25 - Jan 31", "Feb 1 - Feb 8", "Feb 9 - Today"],
+          labels: ["Dec 14 - Dec 20", "Dec 21 - Dec 27", "Dec 28 - Jan 3", "Jan 4 - Jan 10", "Jan 11 - Jan 17", "Jan 18 - Jan 24", "Jan 25 - Jan 31", "Feb 1 - Feb 7", "Feb 8 - Feb 14", "Feb 15 - Today"],
           datasets: [{
               borderColor: "#386B68",
               backgroundColor: "#B1D2B1",
               pointRadius: 0,
               pointHoverRadius: 0,
               borderWidth: 2,
-              data: [114858, 134780, 289037, 481853, 491473, 478193, 695197, 838377, 441033]
+              data: [114864, 134853, 289356, 482797, 492984, 480584, 697864, 865700, 704678, 5318]
             }
           
           ]
@@ -96,14 +96,14 @@ export class OverviewComponent implements OnInit{
         type: 'bar',
 
         data: {
-          labels: ["Dec 14 - Dec 20", "Dec 21 - Dec 27", "Dec 28 - Jan 3", "Jan 4 - Jan 10", "Jan 11 - Jan 17", "Jan 18 - Jan 24", "Jan 25 - Jan 31", "Feb 1 - Feb 7", "Feb 8 - Today"],
+          labels: ["Dec 14 - Dec 20", "Dec 21 - Dec 27", "Dec 28 - Jan 3", "Jan 4 - Jan 10", "Jan 11 - Jan 17", "Jan 18 - Jan 24", "Jan 25 - Jan 31", "Feb 1 - Feb 7", "Feb 8 - Feb 14", "Feb 15 - Today"],
           datasets: [{
               borderColor: "#386B68",
               backgroundColor: "#BEB7DF",
               pointRadius: 0,
               pointHoverRadius: 0,
               borderWidth: 2,
-              data: [224250, 552650, 314175, 550475, 421375, 895625, 685675, 834150, 746675]
+              data: [224250, 552650, 314175, 550475, 421375, 895625, 685675, 834150, 746675, 776075]
             }
           
           ]
